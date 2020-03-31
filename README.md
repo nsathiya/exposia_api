@@ -3,11 +3,12 @@
 * [Technologies](#technologies)
 * [Set up security token](#security-token)
 * [API Documentation](#documentation)
+
 ## General info
-This project is simple Lorem ipsum dolor generator.
+A backend to compute and track a User's air quality index based on time and location.
 
 ## Technologies
-Project is created with <3 and:
+Project is created with :heart: and:
 * node
 * google cloud functions
 * google firestore
@@ -25,7 +26,7 @@ TODO
 
 ### Get latest AQI report for location
 
-### Post latest AQI report for user based on location
+### Update latest AQI report for user based on location
 
 ### Get AQI report by location and time
 
