@@ -1,8 +1,8 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Set up security token](#security-token)
-* [API Documentation](#documentation)
+* [Set up security token](#set-up-security-token)
+* [API Documentation](#api-documentation)
 
 ## General info
 A backend to compute and track a User's air quality index based on time and location.
