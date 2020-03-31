@@ -1,0 +1,59 @@
+{
+  "name": "nodejs-docs-samples-functions-hello-world",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": "Google Inc.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GoogleCloudPlatform/nodejs-docs-samples.git"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "scripts": {
+    "test": "mocha tests/"
+  },
+  "dependencies": {
+    "@google-cloud/debug-agent": "^4.0.0",
+    "@google-cloud/firestore": "2.2.6",
+    "@sendgrid/mail": "^6.4.0",
+    "chai": "^4.2.0",
+    "escape-html": "^1.0.3",
+    "firebase": "^6.6.0",
+    "firebase-admin": "^8.3.0",
+    "firebase-functions": "^3.2.0",
+    "geofirex": "0.0.6",
+    "pug": "^2.0.3",
+    "query-string": "^6.8.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "react-native-svg": "^6.2.1",
+    "rxjs": "^6.5.3",
+    "safe-buffer": "^5.1.2"
+  },
+  "devDependencies": {
+    "@google-cloud/nodejs-repo-tools": "^3.3.0",
+    "@google-cloud/pubsub": "^0.28.0",
+    "@google-cloud/storage": "^3.0.0",
+    "express": "^4.16.3",
+    "mocha": "^6.2.0",
+    "proxyquire": "^2.1.0",
+    "sinon": "^7.0.0",
+    "supertest": "^4.0.0",
+    "uuid": "^3.1.0",
+    "yargs": "^13.0.0"
+  },
+  "cloud-repo-tools": {
+    "requiresKeyFile": true,
+    "requiresProjectId": true,
+    "requiredEnvVars": [
+      "BASE_URL",
+      "GCLOUD_PROJECT",
+      "GCF_REGION",
+      "FUNCTIONS_TOPIC",
+      "FUNCTIONS_BUCKET",
+      "FUNCTIONS_CMD"
+    ]
+  }
+}

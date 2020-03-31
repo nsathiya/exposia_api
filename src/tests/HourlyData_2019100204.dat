@@ -1,0 +1,1407 @@
+10/02/19|04:00|010732059|Arkadelphia|-6|TEMP|C|25.3|Jefferson County Department of Health
+10/02/19|04:00|040131030|Ft McD Yuma Frank-AZ|-7|BARPR|MILLIBAR|959|Tribal Environmental Exchange Network
+10/02/19|04:00|040131030|Ft McD Yuma Frank-AZ|-7|OZONE|PPB|27|Tribal Environmental Exchange Network
+10/02/19|04:00|040131030|Ft McD Yuma Frank-AZ|-7|PM10|UG/M3|44|Tribal Environmental Exchange Network
+10/02/19|04:00|040131030|Ft McD Yuma Frank-AZ|-7|PRECIP|MM|0|Tribal Environmental Exchange Network
+10/02/19|04:00|040131030|Ft McD Yuma Frank-AZ|-7|RHUM|PERCENT|60.8|Tribal Environmental Exchange Network
+10/02/19|04:00|040131030|Ft McD Yuma Frank-AZ|-7|RWD|DEGREES|354|Tribal Environmental Exchange Network
+10/02/19|04:00|040131030|Ft McD Yuma Frank-AZ|-7|RWS|KNOTS|1.7|Tribal Environmental Exchange Network
+10/02/19|04:00|040131030|Ft McD Yuma Frank-AZ|-7|TEMP|C|17.7|Tribal Environmental Exchange Network
+10/02/19|04:00|040137020|Senior Center|-7|OZONE|PPB|27|Salt River Pima-Maricopa Indian Community
+10/02/19|04:00|040137020|Senior Center|-7|PM10|UG/M3|37|Salt River Pima-Maricopa Indian Community
+10/02/19|04:00|040137020|Senior Center|-7|SRAD|WATTS/M2|0|Salt River Pima-Maricopa Indian Community
+10/02/19|04:00|040137021|Red Mountain|-7|OZONE|PPB|32|Salt River Pima-Maricopa Indian Community
+10/02/19|04:00|040137022|LEHI|-7|OZONE|PPB|23|Salt River Pima-Maricopa Indian Community
+10/02/19|04:00|040137022|LEHI|-7|PM10|UG/M3|42|Salt River Pima-Maricopa Indian Community
+10/02/19|04:00|040137024|High School|-7|OZONE|PPB|32|Salt River Pima-Maricopa Indian Community
+10/02/19|04:00|040137024|High School|-7|PM10|UG/M3|42|Salt River Pima-Maricopa Indian Community
+10/02/19|04:00|040190011|Orange Grove|-7|PM10|UG/M3|32|Pima County Department of Environmental Quality
+10/02/19|04:00|040190011|Orange Grove|-7|PM2.5|UG/M3|6|Pima County Department of Environmental Quality
+10/02/19|04:00|040190021|Saguaro Monument|-7|OZONE|PPB|31|Pima County Department of Environmental Quality
+10/02/19|04:00|040191001|South Tucson|-7|PM10|UG/M3|26|Pima County Department of Environmental Quality
+10/02/19|04:00|040191011|22nd Street & Craycr|-7|OZONE|PPB|17|Pima County Department of Environmental Quality
+10/02/19|04:00|040191018|Tangerine & Camino d|-7|OZONE|PPB|17|Pima County Department of Environmental Quality
+10/02/19|04:00|040191020|Fairgrounds|-7|OZONE|PPB|19|Pima County Department of Environmental Quality
+10/02/19|04:00|040191030|Green Valley|-7|OZONE|PPB|24|Pima County Department of Environmental Quality
+10/02/19|04:00|040191030|Green Valley|-7|PM10|UG/M3|8|Pima County Department of Environmental Quality
+10/02/19|04:00|040191032|Rose Elementary|-7|OZONE|PPB|21|Pima County Department of Environmental Quality
+10/02/19|04:00|040191032|Rose Elementary|-7|PM2.5|UG/M3|5|Pima County Department of Environmental Quality
+10/02/19|04:00|040191034|Coachline|-7|OZONE|PPB|11|Pima County Department of Environmental Quality
+10/02/19|04:00|040191113|Geronimo|-7|PM10|UG/M3|23|Pima County Department of Environmental Quality
+10/02/19|04:00|040191113|Geronimo|-7|PM2.5|UG/M3|5|Pima County Department of Environmental Quality
+10/02/19|04:00|060271023|Bishop Paiute Tribe-|-8|BARPR|MILLIBAR|868.7|Bishop Paiute Tribe
+10/02/19|04:00|060271023|Bishop Paiute Tribe-|-8|PRECIP|MM|0|Bishop Paiute Tribe
+10/02/19|04:00|060271023|Bishop Paiute Tribe-|-8|RHUM|PERCENT|28.8|Bishop Paiute Tribe
+10/02/19|04:00|060271023|Bishop Paiute Tribe-|-8|RWD|DEGREES|323|Bishop Paiute Tribe
+10/02/19|04:00|060271023|Bishop Paiute Tribe-|-8|RWS|KNOTS|4.1|Bishop Paiute Tribe
+10/02/19|04:00|060271023|Bishop Paiute Tribe-|-8|SRAD|WATTS/M2|0|Bishop Paiute Tribe
+10/02/19|04:00|060271023|Bishop Paiute Tribe-|-8|TEMP|C|11.1|Bishop Paiute Tribe
+10/02/19|04:00|060271028|Fort Independence Me|-8|BARPR|MILLIBAR|874.7|Tribal Environmental Exchange Network
+10/02/19|04:00|060271028|Fort Independence Me|-8|PM10|UG/M3|13|Tribal Environmental Exchange Network
+10/02/19|04:00|060271028|Fort Independence Me|-8|PRECIP|MM|0|Tribal Environmental Exchange Network
+10/02/19|04:00|060271028|Fort Independence Me|-8|RHUM|PERCENT|22.5|Tribal Environmental Exchange Network
+10/02/19|04:00|060271028|Fort Independence Me|-8|RWD|DEGREES|339|Tribal Environmental Exchange Network
+10/02/19|04:00|060271028|Fort Independence Me|-8|RWS|KNOTS|1.9|Tribal Environmental Exchange Network
+10/02/19|04:00|060271028|Fort Independence Me|-8|SRAD|WATTS/M2|0|Tribal Environmental Exchange Network
+10/02/19|04:00|060271028|Fort Independence Me|-8|TEMP|C|13|Tribal Environmental Exchange Network
+10/02/19|04:00|060271033|Big Pine-CA|-8|BARPR|MILLIBAR|876.4|Tribal Environmental Exchange Network
+10/02/19|04:00|060271033|Big Pine-CA|-8|PRECIP|MM|0|Tribal Environmental Exchange Network
+10/02/19|04:00|060271033|Big Pine-CA|-8|RHUM|PERCENT|27.3|Tribal Environmental Exchange Network
+10/02/19|04:00|060271033|Big Pine-CA|-8|RWD|DEGREES|334|Tribal Environmental Exchange Network
+10/02/19|04:00|060271033|Big Pine-CA|-8|RWS|KNOTS|5.6|Tribal Environmental Exchange Network
+10/02/19|04:00|060271033|Big Pine-CA|-8|SRAD|WATTS/M2|0|Tribal Environmental Exchange Network
+10/02/19|04:00|060271033|Big Pine-CA|-8|TEMP|C|12.3|Tribal Environmental Exchange Network
+10/02/19|04:00|060416002|Valley Ford|-8|RHUM|PERCENT|63.9|San Francisco Bay Area AQMD
+10/02/19|04:00|060416002|Valley Ford|-8|RWD|DEGREES|295.8|San Francisco Bay Area AQMD
+10/02/19|04:00|060416002|Valley Ford|-8|RWS|KNOTS|2.7|San Francisco Bay Area AQMD
+10/02/19|04:00|060416002|Valley Ford|-8|TEMP|C|9.2|San Francisco Bay Area AQMD
+10/02/19|04:00|060416002|Valley Ford|-8|WD|DEGREES|296.6|San Francisco Bay Area AQMD
+10/02/19|04:00|060416002|Valley Ford|-8|WS|M/S|1.6|San Francisco Bay Area AQMD
+10/02/19|04:00|060670002|Antelope - North Hig|-8|CO|PPM|0.5|Sacramento Metro. AQMD
+10/02/19|04:00|060670002|Antelope - North Hig|-8|OZONE|PPB|2|Sacramento Metro. AQMD
+10/02/19|04:00|060670006|Arden Arcade - Del P|-8|BC|UG/M3|0|Sacramento Metro. AQMD
+10/02/19|04:00|060670006|Arden Arcade - Del P|-8|CO|PPM|0.52|Sacramento Metro. AQMD
+10/02/19|04:00|060670006|Arden Arcade - Del P|-8|NO|PPB|11|Sacramento Metro. AQMD
+10/02/19|04:00|060670006|Arden Arcade - Del P|-8|NO2|PPB|21|Sacramento Metro. AQMD
+10/02/19|04:00|060670006|Arden Arcade - Del P|-8|NOX|PPB|33|Sacramento Metro. AQMD
+10/02/19|04:00|060670006|Arden Arcade - Del P|-8|OZONE|PPB|0|Sacramento Metro. AQMD
+10/02/19|04:00|060670006|Arden Arcade - Del P|-8|PM2.5|UG/M3|4|Sacramento Metro. AQMD
+10/02/19|04:00|060670006|Arden Arcade - Del P|-8|SO2|PPB|1|Sacramento Metro. AQMD
+10/02/19|04:00|060670006|Arden Arcade - Del P|-8|SRAD|WATTS/M2|0|Sacramento Metro. AQMD
+10/02/19|04:00|060670006|Arden Arcade - Del P|-8|TEMP|C|14.1|Sacramento Metro. AQMD
+10/02/19|04:00|060670006|Arden Arcade - Del P|-8|WD|DEGREES|237|Sacramento Metro. AQMD
+10/02/19|04:00|060670006|Arden Arcade - Del P|-8|WS|M/S|0|Sacramento Metro. AQMD
+10/02/19|04:00|060670011|Elk Grove|-8|BARPR|MILLIBAR|1012|Sacramento Metro. AQMD
+10/02/19|04:00|060670011|Elk Grove|-8|NO|PPB|0|Sacramento Metro. AQMD
+10/02/19|04:00|060670011|Elk Grove|-8|NO2|PPB|6|Sacramento Metro. AQMD
+10/02/19|04:00|060670011|Elk Grove|-8|NOX|PPB|6|Sacramento Metro. AQMD
+10/02/19|04:00|060670011|Elk Grove|-8|OZONE|PPB|14|Sacramento Metro. AQMD
+10/02/19|04:00|060670011|Elk Grove|-8|PM2.5|UG/M3|0|Sacramento Metro. AQMD
+10/02/19|04:00|060670011|Elk Grove|-8|TEMP|C|12.8|Sacramento Metro. AQMD
+10/02/19|04:00|060670011|Elk Grove|-8|WD|DEGREES|257|Sacramento Metro. AQMD
+10/02/19|04:00|060670011|Elk Grove|-8|WS|M/S|1.8|Sacramento Metro. AQMD
+10/02/19|04:00|060670015|Bercut Dr|-8|CO|PPM|0.6|Sacramento Metro. AQMD
+10/02/19|04:00|060670015|Bercut Dr|-8|NO2|PPB|30|Sacramento Metro. AQMD
+10/02/19|04:00|060670015|Bercut Dr|-8|TEMP|C|16.3|Sacramento Metro. AQMD
+10/02/19|04:00|060670015|Bercut Dr|-8|WD|DEGREES|240.3|Sacramento Metro. AQMD
+10/02/19|04:00|060670015|Bercut Dr|-8|WS|M/S|1.2|Sacramento Metro. AQMD
+10/02/19|04:00|060675003|Sloughhouse|-8|OZONE|PPB|27|Sacramento Metro. AQMD
+10/02/19|04:00|060675003|Sloughhouse|-8|PM2.5|UG/M3|6|Sacramento Metro. AQMD
+10/02/19|04:00|060675003|Sloughhouse|-8|WD|DEGREES|59|Sacramento Metro. AQMD
+10/02/19|04:00|060675003|Sloughhouse|-8|WS|M/S|0.8|Sacramento Metro. AQMD
+10/02/19|04:00|060792004|Mesa 2 /Nipomo|-8|PM10|UG/M3|21|San Luis Obispo County APCD
+10/02/19|04:00|060792004|Mesa 2 /Nipomo|-8|PM2.5|UG/M3|8|San Luis Obispo County APCD
+10/02/19|04:00|060792004|Mesa 2 /Nipomo|-8|RWD|DEGREES|10|San Luis Obispo County APCD
+10/02/19|04:00|060792004|Mesa 2 /Nipomo|-8|RWS|KNOTS|5.6|San Luis Obispo County APCD
+10/02/19|04:00|060792004|Mesa 2 /Nipomo|-8|SO2|PPB|0|San Luis Obispo County APCD
+10/02/19|04:00|060792004|Mesa 2 /Nipomo|-8|TEMP|C|13.9|San Luis Obispo County APCD
+10/02/19|04:00|060792007|Nipomo Mesa CDF|-8|PM10|UG/M3|17|San Luis Obispo County APCD
+10/02/19|04:00|060792007|Nipomo Mesa CDF|-8|PM2.5|UG/M3|4|San Luis Obispo County APCD
+10/02/19|04:00|060792007|Nipomo Mesa CDF|-8|RWD|DEGREES|348|San Luis Obispo County APCD
+10/02/19|04:00|060792007|Nipomo Mesa CDF|-8|RWS|KNOTS|1|San Luis Obispo County APCD
+10/02/19|04:00|060793001|Morro Bay|-8|OZONE|PPB|19|San Luis Obispo County APCD
+10/02/19|04:00|060793001|Morro Bay|-8|RWD|DEGREES|97|San Luis Obispo County APCD
+10/02/19|04:00|060793001|Morro Bay|-8|RWS|KNOTS|3.5|San Luis Obispo County APCD
+10/02/19|04:00|060794002|Nipomo RP|-8|NO|PPB|0|San Luis Obispo County APCD
+10/02/19|04:00|060794002|Nipomo RP|-8|NO2|PPB|1|San Luis Obispo County APCD
+10/02/19|04:00|060794002|Nipomo RP|-8|NOX|PPB|2|San Luis Obispo County APCD
+10/02/19|04:00|060794002|Nipomo RP|-8|OZONE|PPB|33|San Luis Obispo County APCD
+10/02/19|04:00|060794002|Nipomo RP|-8|PM10|UG/M3|20|San Luis Obispo County APCD
+10/02/19|04:00|060794002|Nipomo RP|-8|RWD|DEGREES|331|San Luis Obispo County APCD
+10/02/19|04:00|060794002|Nipomo RP|-8|RWS|KNOTS|2.7|San Luis Obispo County APCD
+10/02/19|04:00|060794002|Nipomo RP|-8|TEMP|C|14.5|San Luis Obispo County APCD
+10/02/19|04:00|060798002|Atascadero2|-8|NO|PPB|0|San Luis Obispo County APCD
+10/02/19|04:00|060798002|Atascadero2|-8|NO2|PPB|12|San Luis Obispo County APCD
+10/02/19|04:00|060798002|Atascadero2|-8|NOX|PPB|12|San Luis Obispo County APCD
+10/02/19|04:00|060798002|Atascadero2|-8|OZONE|PPB|16|San Luis Obispo County APCD
+10/02/19|04:00|060798002|Atascadero2|-8|PM10|UG/M3|20|San Luis Obispo County APCD
+10/02/19|04:00|060798002|Atascadero2|-8|PM2.5|UG/M3|5|San Luis Obispo County APCD
+10/02/19|04:00|060798002|Atascadero2|-8|RWD|DEGREES|322|San Luis Obispo County APCD
+10/02/19|04:00|060798002|Atascadero2|-8|RWS|KNOTS|0.3|San Luis Obispo County APCD
+10/02/19|04:00|060798002|Atascadero2|-8|TEMP|C|11.3|San Luis Obispo County APCD
+10/02/19|04:00|060798005|Redhills/Shandon|-8|OZONE|PPB|35|San Luis Obispo County APCD
+10/02/19|04:00|060798005|Redhills/Shandon|-8|RWD|DEGREES|77|San Luis Obispo County APCD
+10/02/19|04:00|060798005|Redhills/Shandon|-8|RWS|KNOTS|11.3|San Luis Obispo County APCD
+10/02/19|04:00|060798005|Redhills/Shandon|-8|TEMP|C|12|San Luis Obispo County APCD
+10/02/19|04:00|060798006|Carrizo|-8|OZONE|PPB|29|San Luis Obispo County APCD
+10/02/19|04:00|060798006|Carrizo|-8|RWD|DEGREES|83|San Luis Obispo County APCD
+10/02/19|04:00|060798006|Carrizo|-8|RWS|KNOTS|0.8|San Luis Obispo County APCD
+10/02/19|04:00|060831013|Lompoc HS&P|-8|OZONE|PPB|37|Santa Barbara County Air Pollution Control District
+10/02/19|04:00|060831014|Paradise Road|-8|OZONE|PPB|34|Santa Barbara County Air Pollution Control District
+10/02/19|04:00|060831021|Carpinteria|-8|OZONE|PPB|35|Santa Barbara County Air Pollution Control District
+10/02/19|04:00|060831025|Las Flores Canyon|-8|OZONE|PPB|42|Santa Barbara County Air Pollution Control District
+10/02/19|04:00|060831025|Las Flores Canyon|-8|PM10|UG/M3|25|Santa Barbara County Air Pollution Control District
+10/02/19|04:00|060832004|Lompoc H Street|-8|OZONE|PPB|21|Santa Barbara County Air Pollution Control District
+10/02/19|04:00|060832004|Lompoc H Street|-8|PM10|UG/M3|17|Santa Barbara County Air Pollution Control District
+10/02/19|04:00|060832004|Lompoc H Street|-8|PM2.5|UG/M3|5|Santa Barbara County Air Pollution Control District
+10/02/19|04:00|060832011|Goleta|-8|OZONE|PPB|31|Santa Barbara County Air Pollution Control District
+10/02/19|04:00|060832011|Goleta|-8|PM10|UG/M3|20|Santa Barbara County Air Pollution Control District
+10/02/19|04:00|060832011|Goleta|-8|PM2.5|UG/M3|5|Santa Barbara County Air Pollution Control District
+10/02/19|04:00|060833001|Santa Ynez|-8|OZONE|PPB|29|Santa Barbara County Air Pollution Control District
+10/02/19|04:00|060956001|Rio Vista|-8|RHUM|PERCENT|36.5|San Francisco Bay Area AQMD
+10/02/19|04:00|060956001|Rio Vista|-8|RWD|DEGREES|238.8|San Francisco Bay Area AQMD
+10/02/19|04:00|060956001|Rio Vista|-8|RWS|KNOTS|5.1|San Francisco Bay Area AQMD
+10/02/19|04:00|060956001|Rio Vista|-8|TEMP|C|16|San Francisco Bay Area AQMD
+10/02/19|04:00|060956001|Rio Vista|-8|WD|DEGREES|239.1|San Francisco Bay Area AQMD
+10/02/19|04:00|060956001|Rio Vista|-8|WS|M/S|2.6|San Francisco Bay Area AQMD
+10/02/19|04:00|061030007|Red Bluff - Walnut o|-8|PM2.5|UG/M3|3|Tehama County Air Pollution Control District
+10/02/19|04:00|080010008|Adams|-7|PM2.5|UG/M3|1.1|Colorado Department of Public Health and Environment
+10/02/19|04:00|080013001|Welby - 78th Ave. & |-7|CO|PPM|0.1|Colorado Department of Public Health and Environment
+10/02/19|04:00|080013001|Welby - 78th Ave. & |-7|NO2|PPB|4|Colorado Department of Public Health and Environment
+10/02/19|04:00|080013001|Welby - 78th Ave. & |-7|OZONE|PPB|6|Colorado Department of Public Health and Environment
+10/02/19|04:00|080013001|Welby - 78th Ave. & |-7|PM10|UG/M3|4|Colorado Department of Public Health and Environment
+10/02/19|04:00|080013001|Welby - 78th Ave. & |-7|SO2|PPB|0|Colorado Department of Public Health and Environment
+10/02/19|04:00|080050002|Highland Reservoir -|-7|OZONE|PPB|8|Colorado Department of Public Health and Environment
+10/02/19|04:00|080050006|Aurora East|-7|OZONE|PPB|9|Colorado Department of Public Health and Environment
+10/02/19|04:00|080130003|Longmont|-7|PM2.5|UG/M3|1.5|Colorado Department of Public Health and Environment
+10/02/19|04:00|080130014|Boulder Reservoir|-7|OZONE|PPB|8|Colorado Department of Public Health and Environment
+10/02/19|04:00|080131001|Boulder - CU - 2102 |-7|PM2.5|UG/M3|6.5|Colorado Department of Public Health and Environment
+10/02/19|04:00|080310002|Denver - CAMP - 2105|-7|CO|PPM|0.1|Colorado Department of Public Health and Environment
+10/02/19|04:00|080310002|Denver - CAMP - 2105|-7|NO2|PPB|6|Colorado Department of Public Health and Environment
+10/02/19|04:00|080310002|Denver - CAMP - 2105|-7|OZONE|PPB|4|Colorado Department of Public Health and Environment
+10/02/19|04:00|080310002|Denver - CAMP - 2105|-7|PM10|UG/M3|1|Colorado Department of Public Health and Environment
+10/02/19|04:00|080310002|Denver - CAMP - 2105|-7|PM2.5|UG/M3|1.1|Colorado Department of Public Health and Environment
+10/02/19|04:00|080310002|Denver - CAMP - 2105|-7|SO2|PPB|0|Colorado Department of Public Health and Environment
+10/02/19|04:00|080310013|Denver - NJH - 14th |-7|PM2.5|UG/M3|1.2|Colorado Department of Public Health and Environment
+10/02/19|04:00|080310026|La Casa NCORE - 4545|-7|CO|PPM|0.1|Colorado Department of Public Health and Environment
+10/02/19|04:00|080310026|La Casa NCORE - 4545|-7|OZONE|PPB|5|Colorado Department of Public Health and Environment
+10/02/19|04:00|080310026|La Casa NCORE - 4545|-7|PM10|UG/M3|4|Colorado Department of Public Health and Environment
+10/02/19|04:00|080310026|La Casa NCORE - 4545|-7|PM2.5|UG/M3|1.8|Colorado Department of Public Health and Environment
+10/02/19|04:00|080310026|La Casa NCORE - 4545|-7|SO2|PPB|0|Colorado Department of Public Health and Environment
+10/02/19|04:00|080310028|Globeville|-7|NO2|PPB|2|Colorado Department of Public Health and Environment
+10/02/19|04:00|080310028|Globeville|-7|PM2.5|UG/M3|0.8|Colorado Department of Public Health and Environment
+10/02/19|04:00|080350004|Chatfield Park - 115|-7|OZONE|PPB|7|Colorado Department of Public Health and Environment
+10/02/19|04:00|080350004|Chatfield Park - 115|-7|PM2.5|UG/M3|2.7|Colorado Department of Public Health and Environment
+10/02/19|04:00|080410013|Colorado Springs - U|-7|OZONE|PPB|7|Colorado Department of Public Health and Environment
+10/02/19|04:00|080410015|Colorado Springs - H|-7|CO|PPM|0.1|Colorado Department of Public Health and Environment
+10/02/19|04:00|080410015|Colorado Springs - H|-7|SO2|PPB|0|Colorado Department of Public Health and Environment
+10/02/19|04:00|080410016|Manitou Springs|-7|OZONE|PPB|5|Colorado Department of Public Health and Environment
+10/02/19|04:00|080410017|Colorado College|-7|PM2.5|UG/M3|7.4|Colorado Department of Public Health and Environment
+10/02/19|04:00|080450007|Rifle Particulate|-7|PM2.5|UG/M3|7|Colorado Department of Public Health and Environment
+10/02/19|04:00|080450012|Rifle Ozone|-7|OZONE|PPB|23|Colorado Department of Public Health and Environment
+10/02/19|04:00|080590005|Welch - 12400 W. Hwy|-7|OZONE|PPB|7|Colorado Department of Public Health and Environment
+10/02/19|04:00|080590006|Rocky Flats - N - 16|-7|OZONE|PPB|7|Colorado Department of Public Health and Environment
+10/02/19|04:00|080590011|Golden - NREL - 2054|-7|OZONE|PPB|3|Colorado Department of Public Health and Environment
+10/02/19|04:00|080677001|Ute 1|-7|CO|PPM|0.79|Southern Ute Tribe
+10/02/19|04:00|080677001|Ute 1|-7|NO|PPB|0.2|Southern Ute Tribe
+10/02/19|04:00|080677001|Ute 1|-7|NO2|PPB|6|Southern Ute Tribe
+10/02/19|04:00|080677001|Ute 1|-7|NOX|PPB|5.8|Southern Ute Tribe
+10/02/19|04:00|080677001|Ute 1|-7|OZONE|PPB|27|Southern Ute Tribe
+10/02/19|04:00|080677001|Ute 1|-7|PRECIP|MM|0|Southern Ute Tribe
+10/02/19|04:00|080677001|Ute 1|-7|RHUM|PERCENT|39.3|Southern Ute Tribe
+10/02/19|04:00|080677001|Ute 1|-7|SRAD|WATTS/M2|0|Southern Ute Tribe
+10/02/19|04:00|080677001|Ute 1|-7|TEMP|C|9.1|Southern Ute Tribe
+10/02/19|04:00|080677001|Ute 1|-7|WD|DEGREES|47.7|Southern Ute Tribe
+10/02/19|04:00|080677001|Ute 1|-7|WS|M/S|1.9|Southern Ute Tribe
+10/02/19|04:00|080677003|Ute 3|-7|NO|PPB|0.1|Southern Ute Tribe
+10/02/19|04:00|080677003|Ute 3|-7|NO2|PPB|6|Southern Ute Tribe
+10/02/19|04:00|080677003|Ute 3|-7|NOX|PPB|6.3|Southern Ute Tribe
+10/02/19|04:00|080677003|Ute 3|-7|OZONE|PPB|39|Southern Ute Tribe
+10/02/19|04:00|080677003|Ute 3|-7|PRECIP|MM|0|Southern Ute Tribe
+10/02/19|04:00|080677003|Ute 3|-7|RHUM|PERCENT|31|Southern Ute Tribe
+10/02/19|04:00|080677003|Ute 3|-7|SRAD|WATTS/M2|0.7|Southern Ute Tribe
+10/02/19|04:00|080677003|Ute 3|-7|TEMP|C|12.1|Southern Ute Tribe
+10/02/19|04:00|080677003|Ute 3|-7|WD|DEGREES|237.6|Southern Ute Tribe
+10/02/19|04:00|080677003|Ute 3|-7|WS|M/S|1.5|Southern Ute Tribe
+10/02/19|04:00|080690009|Ft. Collins - CSU Fa|-7|PM10|UG/M3|1|Colorado Department of Public Health and Environment
+10/02/19|04:00|080690009|Ft. Collins - CSU Fa|-7|PM2.5|UG/M3|0.7|Colorado Department of Public Health and Environment
+10/02/19|04:00|080690011|Fort Collins - West |-7|OZONE|PPB|10|Colorado Department of Public Health and Environment
+10/02/19|04:00|080691004|Fort Collins - CSU -|-7|CO|PPM|0.2|Colorado Department of Public Health and Environment
+10/02/19|04:00|080691004|Fort Collins - CSU -|-7|OZONE|PPB|10|Colorado Department of Public Health and Environment
+10/02/19|04:00|080770017|Grand Junction - Pow|-7|PM2.5|UG/M3|5.2|Colorado Department of Public Health and Environment
+10/02/19|04:00|080770020|Palisade Ozone|-7|OZONE|PPB|53|Colorado Department of Public Health and Environment
+10/02/19|04:00|081230006|Greeley Hospital|-7|PM2.5|UG/M3|1.3|Colorado Department of Public Health and Environment
+10/02/19|04:00|081230009|Greeley - Weld Co. T|-7|CO|PPM|0.1|Colorado Department of Public Health and Environment
+10/02/19|04:00|081230009|Greeley - Weld Co. T|-7|OZONE|PPB|10|Colorado Department of Public Health and Environment
+10/02/19|04:00|110019999|Washington|-5|RHUM|PERCENT|87.2|District of Columbia - Department of Energy and Environment
+10/02/19|04:00|110019999|Washington|-5|TEMP|C|23|District of Columbia - Department of Energy and Environment
+10/02/19|04:00|110019999|Washington|-5|WD|DEGREES|136.2|District of Columbia - Department of Energy and Environment
+10/02/19|04:00|110019999|Washington|-5|WS|M/S|0.2|District of Columbia - Department of Energy and Environment
+10/02/19|04:00|120110033|V_VIEW|-5|OZONE|PPB|26|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120110033|V_VIEW|-5|PM2.5|UG/M3|1|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120110033|V_VIEW|-5|WD|DEGREES|288|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120110033|V_VIEW|-5|WS|M/S|2|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120110034|NCORE|-5|CO|PPM|0.1|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120110034|NCORE|-5|NOY|PPB|4.8|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120110034|NCORE|-5|OZONE|PPB|21|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120110034|NCORE|-5|SO2|PPB|1|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120110035|Near Road|-5|CO|PPM|0.16|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120110035|Near Road|-5|NO2|PPB|3|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120110035|Near Road|-5|RWD|DEGREES|0|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120110035|Near Road|-5|RWS|KNOTS|0|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120112003|POMPANO_BEACH|-5|OZONE|PPB|31|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120112003|POMPANO_BEACH|-5|PM2.5|UG/M3|8.2|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120112003|POMPANO_BEACH|-5|WD|DEGREES|71|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120112003|POMPANO_BEACH|-5|WS|M/S|4.1|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120118002|DANIA_BEACH|-5|NO2|PPB|0|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|120118002|DANIA_BEACH|-5|OZONE|PPB|29|Broward County Environmental Engineering and Permitting  Division
+10/02/19|04:00|160050020|Shoshone Bannock Tri|-7|PM10|UG/M3|7|Tribal Environmental Exchange Network
+10/02/19|04:00|160050020|Shoshone Bannock Tri|-7|PM2.5|UG/M3|1.6|Tribal Environmental Exchange Network
+10/02/19|04:00|160090011|Plummer CDA Tribe|-8|PM2.5|UG/M3|3.6|Idaho Department of Environmental Quality
+10/02/19|04:00|160150001|Idaho City|-7|PM2.5|UG/M3|7|Idaho Department of Environmental Quality
+10/02/19|04:00|160490003|Kamiah-ID|-8|PM2.5|UG/M3|6.4|Tribal Environmental Exchange Network
+10/02/19|04:00|160571012|Juliaetta E-sampler|-8|PM2.5|UG/M3|5.1|Idaho Department of Environmental Quality
+10/02/19|04:00|160871004|Weiser PM25|-7|PM2.5|UG/M3|6.9|Idaho Department of Environmental Quality
+10/02/19|04:00|190130009|Waterloo, Water Towe|-6|BARPR|MILLIBAR|979.4|Iowa DNR
+10/02/19|04:00|190130009|Waterloo, Water Towe|-6|PM2.5|UG/M3|-2|Iowa DNR
+10/02/19|04:00|190130009|Waterloo, Water Towe|-6|RWD|DEGREES|10|Iowa DNR
+10/02/19|04:00|190130009|Waterloo, Water Towe|-6|RWS|KNOTS|1.8|Iowa DNR
+10/02/19|04:00|190130009|Waterloo, Water Towe|-6|TEMP|C|16.6|Iowa DNR
+10/02/19|04:00|190170011|Waverly, Airport|-6|OZONE|PPB|7|Iowa DNR
+10/02/19|04:00|190170011|Waverly, Airport|-6|RWD|DEGREES|38|Iowa DNR
+10/02/19|04:00|190170011|Waverly, Airport|-6|RWS|KNOTS|3.4|Iowa DNR
+10/02/19|04:00|190450019|Clinton, Chancy Park|-6|BARPR|MILLIBAR|987.4|Iowa DNR
+10/02/19|04:00|190450019|Clinton, Chancy Park|-6|PM2.5|UG/M3|7|Iowa DNR
+10/02/19|04:00|190450019|Clinton, Chancy Park|-6|RWD|DEGREES|349|Iowa DNR
+10/02/19|04:00|190450019|Clinton, Chancy Park|-6|RWS|KNOTS|1.4|Iowa DNR
+10/02/19|04:00|190450019|Clinton, Chancy Park|-6|SO2|PPB|1|Iowa DNR
+10/02/19|04:00|190450019|Clinton, Chancy Park|-6|TEMP|C|23.4|Iowa DNR
+10/02/19|04:00|190450021|Clinton, Rainbow Par|-6|BARPR|MILLIBAR|989.6|Iowa DNR
+10/02/19|04:00|190450021|Clinton, Rainbow Par|-6|OZONE|PPB|29|Iowa DNR
+10/02/19|04:00|190450021|Clinton, Rainbow Par|-6|RWD|DEGREES|356|Iowa DNR
+10/02/19|04:00|190450021|Clinton, Rainbow Par|-6|RWS|KNOTS|1.7|Iowa DNR
+10/02/19|04:00|190450021|Clinton, Rainbow Par|-6|TEMP|C|22.9|Iowa DNR
+10/02/19|04:00|190850007|Pisgah, Forestry Off|-6|OZONE|PPB|6|Iowa DNR
+10/02/19|04:00|190850007|Pisgah, Forestry Off|-6|RWD|DEGREES|3|Iowa DNR
+10/02/19|04:00|190850007|Pisgah, Forestry Off|-6|RWS|KNOTS|2.3|Iowa DNR
+10/02/19|04:00|191032001|Iowa City, Hoover Sc|-6|BARPR|MILLIBAR|982.4|Iowa DNR
+10/02/19|04:00|191032001|Iowa City, Hoover Sc|-6|PM2.5|UG/M3|2.9|Iowa DNR
+10/02/19|04:00|191032001|Iowa City, Hoover Sc|-6|RHUM|PERCENT|97.7|Iowa DNR
+10/02/19|04:00|191032001|Iowa City, Hoover Sc|-6|RWD|DEGREES|13|Iowa DNR
+10/02/19|04:00|191032001|Iowa City, Hoover Sc|-6|RWS|KNOTS|1.3|Iowa DNR
+10/02/19|04:00|191032001|Iowa City, Hoover Sc|-6|TEMP|C|21.7|Iowa DNR
+10/02/19|04:00|191370002|Viking Lake State Pa|-6|BARPR|MILLIBAR|966.8|Iowa DNR
+10/02/19|04:00|191370002|Viking Lake State Pa|-6|OZONE|PPB|2|Iowa DNR
+10/02/19|04:00|191370002|Viking Lake State Pa|-6|PM2.5|UG/M3|1|Iowa DNR
+10/02/19|04:00|191370002|Viking Lake State Pa|-6|RHUM|PERCENT|97.5|Iowa DNR
+10/02/19|04:00|191370002|Viking Lake State Pa|-6|RWD|DEGREES|295|Iowa DNR
+10/02/19|04:00|191370002|Viking Lake State Pa|-6|RWS|KNOTS|2|Iowa DNR
+10/02/19|04:00|191370002|Viking Lake State Pa|-6|TEMP|C|18.5|Iowa DNR
+10/02/19|04:00|191390016|Muscatine, Greenwood|-6|RWD|DEGREES|222|Iowa DNR
+10/02/19|04:00|191390016|Muscatine, Greenwood|-6|RWS|KNOTS|1.6|Iowa DNR
+10/02/19|04:00|191390016|Muscatine, Greenwood|-6|SO2|PPB|0|Iowa DNR
+10/02/19|04:00|191390019|Muscatine, High Scho|-6|BARPR|MILLIBAR|988.6|Iowa DNR
+10/02/19|04:00|191390019|Muscatine, High Scho|-6|PM2.5|UG/M3|9|Iowa DNR
+10/02/19|04:00|191390019|Muscatine, High Scho|-6|RWD|DEGREES|191|Iowa DNR
+10/02/19|04:00|191390019|Muscatine, High Scho|-6|RWS|KNOTS|0.2|Iowa DNR
+10/02/19|04:00|191390019|Muscatine, High Scho|-6|SO2|PPB|0|Iowa DNR
+10/02/19|04:00|191390019|Muscatine, High Scho|-6|TEMP|C|25.8|Iowa DNR
+10/02/19|04:00|191390020|Muscatine, Musser Pa|-6|RWD|DEGREES|199|Iowa DNR
+10/02/19|04:00|191390020|Muscatine, Musser Pa|-6|RWS|KNOTS|0.5|Iowa DNR
+10/02/19|04:00|191390020|Muscatine, Musser Pa|-6|SO2|PPB|1|Iowa DNR
+10/02/19|04:00|191471002|Emmetsburg, ILCC|-6|BARPR|MILLIBAR|968.3|Iowa DNR
+10/02/19|04:00|191471002|Emmetsburg, ILCC|-6|OZONE|PPB|12|Iowa DNR
+10/02/19|04:00|191471002|Emmetsburg, ILCC|-6|PM2.5|UG/M3|-1|Iowa DNR
+10/02/19|04:00|191471002|Emmetsburg, ILCC|-6|RWD|DEGREES|25|Iowa DNR
+10/02/19|04:00|191471002|Emmetsburg, ILCC|-6|RWS|KNOTS|3.5|Iowa DNR
+10/02/19|04:00|191471002|Emmetsburg, ILCC|-6|TEMP|C|10.1|Iowa DNR
+10/02/19|04:00|191630014|Scott County Park|-6|OZONE|PPB|22|Iowa DNR
+10/02/19|04:00|191630014|Scott County Park|-6|RWD|DEGREES|13|Iowa DNR
+10/02/19|04:00|191630014|Scott County Park|-6|RWS|KNOTS|0.8|Iowa DNR
+10/02/19|04:00|191630015|Davenport, 10th & Vi|-6|BARPR|MILLIBAR|983.5|Iowa DNR
+10/02/19|04:00|191630015|Davenport, 10th & Vi|-6|CO|PPM|0.14|Iowa DNR
+10/02/19|04:00|191630015|Davenport, 10th & Vi|-6|NO2Y|PPB|4.1|Iowa DNR
+10/02/19|04:00|191630015|Davenport, 10th & Vi|-6|NOY|PPB|4.3|Iowa DNR
+10/02/19|04:00|191630015|Davenport, 10th & Vi|-6|OZONE|PPB|21|Iowa DNR
+10/02/19|04:00|191630015|Davenport, 10th & Vi|-6|PM2.5|UG/M3|8|Iowa DNR
+10/02/19|04:00|191630015|Davenport, 10th & Vi|-6|RHUM|PERCENT|78.7|Iowa DNR
+10/02/19|04:00|191630015|Davenport, 10th & Vi|-6|RWD|DEGREES|192|Iowa DNR
+10/02/19|04:00|191630015|Davenport, 10th & Vi|-6|RWS|KNOTS|1.6|Iowa DNR
+10/02/19|04:00|191630015|Davenport, 10th & Vi|-6|SO2|PPB|0|Iowa DNR
+10/02/19|04:00|191630015|Davenport, 10th & Vi|-6|TEMP|C|25.6|Iowa DNR
+10/02/19|04:00|191630017|Buffalo|-6|BARPR|MILLIBAR|987|Iowa DNR
+10/02/19|04:00|191630017|Buffalo|-6|PM10|UG/M3|15|Iowa DNR
+10/02/19|04:00|191630017|Buffalo|-6|RWD|DEGREES|169|Iowa DNR
+10/02/19|04:00|191630017|Buffalo|-6|RWS|KNOTS|2.6|Iowa DNR
+10/02/19|04:00|191630017|Buffalo|-6|TEMP|C|25|Iowa DNR
+10/02/19|04:00|191630020|Davenport, Hayes Sch|-6|RHUM|PERCENT|82.8|Iowa DNR
+10/02/19|04:00|191630020|Davenport, Hayes Sch|-6|TEMP|C|25.4|Iowa DNR
+10/02/19|04:00|191770006|Lake Sugema|-6|BARPR|MILLIBAR|982.2|Iowa DNR
+10/02/19|04:00|191770006|Lake Sugema|-6|NO|PPB|0|Iowa DNR
+10/02/19|04:00|191770006|Lake Sugema|-6|NO2|PPB|1|Iowa DNR
+10/02/19|04:00|191770006|Lake Sugema|-6|NOX|PPB|1.1|Iowa DNR
+10/02/19|04:00|191770006|Lake Sugema|-6|OZONE|PPB|27|Iowa DNR
+10/02/19|04:00|191770006|Lake Sugema|-6|PM2.5|UG/M3|10|Iowa DNR
+10/02/19|04:00|191770006|Lake Sugema|-6|RHUM|PERCENT|78.1|Iowa DNR
+10/02/19|04:00|191770006|Lake Sugema|-6|RWD|DEGREES|210|Iowa DNR
+10/02/19|04:00|191770006|Lake Sugema|-6|RWS|KNOTS|5.4|Iowa DNR
+10/02/19|04:00|191770006|Lake Sugema|-6|SO2|PPB|0|Iowa DNR
+10/02/19|04:00|191770006|Lake Sugema|-6|TEMP|C|21.4|Iowa DNR
+10/02/19|04:00|212219991|Cadiz|-6|TEMP|C|26|EPA Office of Atmospheric Programs
+10/02/19|04:00|220050004|Dutchtown|-6|OZONE|PPB|1|Louisiana Department of Environmental Quality
+10/02/19|04:00|220050004|Dutchtown|-6|RWD|DEGREES|153|Louisiana Department of Environmental Quality
+10/02/19|04:00|220170001|Dixie|-6|OZONE|PPB|10|Louisiana Department of Environmental Quality
+10/02/19|04:00|220190002|Carlyss|-6|OZONE|PPB|9|Louisiana Department of Environmental Quality
+10/02/19|04:00|220190002|Carlyss|-6|RWD|DEGREES|57|Louisiana Department of Environmental Quality
+10/02/19|04:00|220190002|Carlyss|-6|RWS|KNOTS|0|Louisiana Department of Environmental Quality
+10/02/19|04:00|220190008|Westlake|-6|PM2.5|UG/M3|10.9|Louisiana Department of Environmental Quality
+10/02/19|04:00|220190008|Westlake|-6|RWD|DEGREES|104|Louisiana Department of Environmental Quality
+10/02/19|04:00|220190008|Westlake|-6|RWS|KNOTS|3.5|Louisiana Department of Environmental Quality
+10/02/19|04:00|220190009|Vinton|-6|OZONE|PPB|6|Louisiana Department of Environmental Quality
+10/02/19|04:00|220190009|Vinton|-6|RWD|DEGREES|66|Louisiana Department of Environmental Quality
+10/02/19|04:00|220190009|Vinton|-6|RWS|KNOTS|0.9|Louisiana Department of Environmental Quality
+10/02/19|04:00|220330009|Capitol|-6|OZONE|PPB|22|Louisiana Department of Environmental Quality
+10/02/19|04:00|220330009|Capitol|-6|PM2.5|UG/M3|15.8|Louisiana Department of Environmental Quality
+10/02/19|04:00|220330009|Capitol|-6|RWD|DEGREES|184|Louisiana Department of Environmental Quality
+10/02/19|04:00|220330009|Capitol|-6|RWS|KNOTS|0.9|Louisiana Department of Environmental Quality
+10/02/19|04:00|220330013|Pride|-6|OZONE|PPB|3|Louisiana Department of Environmental Quality
+10/02/19|04:00|220330013|Pride|-6|RWD|DEGREES|41|Louisiana Department of Environmental Quality
+10/02/19|04:00|220330013|Pride|-6|RWS|KNOTS|0.9|Louisiana Department of Environmental Quality
+10/02/19|04:00|220470009|Bayou Plaquemine|-6|OZONE|PPB|4|Louisiana Department of Environmental Quality
+10/02/19|04:00|220470009|Bayou Plaquemine|-6|RWD|DEGREES|117|Louisiana Department of Environmental Quality
+10/02/19|04:00|220470009|Bayou Plaquemine|-6|RWS|KNOTS|0.9|Louisiana Department of Environmental Quality
+10/02/19|04:00|220511001|Kenner|-6|OZONE|PPB|24|Louisiana Department of Environmental Quality
+10/02/19|04:00|220511001|Kenner|-6|PM2.5|UG/M3|8.4|Louisiana Department of Environmental Quality
+10/02/19|04:00|220550007|Lafayette|-6|OZONE|PPB|20|Louisiana Department of Environmental Quality
+10/02/19|04:00|220550007|Lafayette|-6|PM2.5|UG/M3|10.7|Louisiana Department of Environmental Quality
+10/02/19|04:00|220630002|French Settlement|-6|OZONE|PPB|3|Louisiana Department of Environmental Quality
+10/02/19|04:00|220630002|French Settlement|-6|PM2.5|UG/M3|12.8|Louisiana Department of Environmental Quality
+10/02/19|04:00|220630002|French Settlement|-6|RWD|DEGREES|126|Louisiana Department of Environmental Quality
+10/02/19|04:00|220630002|French Settlement|-6|RWS|KNOTS|0|Louisiana Department of Environmental Quality
+10/02/19|04:00|220730004|Monroe|-6|OZONE|PPB|15|Louisiana Department of Environmental Quality
+10/02/19|04:00|220770001|New Roads|-6|OZONE|PPB|13|Louisiana Department of Environmental Quality
+10/02/19|04:00|220870004|Meraux|-6|OZONE|PPB|14|Louisiana Department of Environmental Quality
+10/02/19|04:00|220870007|Chalmette Vista|-6|PM2.5|UG/M3|30.6|Louisiana Department of Environmental Quality
+10/02/19|04:00|220870007|Chalmette Vista|-6|RWD|DEGREES|8|Louisiana Department of Environmental Quality
+10/02/19|04:00|220870007|Chalmette Vista|-6|RWS|KNOTS|0.9|Louisiana Department of Environmental Quality
+10/02/19|04:00|220870007|Chalmette Vista|-6|SO2|PPB|2|Louisiana Department of Environmental Quality
+10/02/19|04:00|220930002|Convent|-6|OZONE|PPB|4|Louisiana Department of Environmental Quality
+10/02/19|04:00|220950002|Garyville|-6|OZONE|PPB|2|Louisiana Department of Environmental Quality
+10/02/19|04:00|221030002|Madisonville|-6|OZONE|PPB|3|Louisiana Department of Environmental Quality
+10/02/19|04:00|221030002|Madisonville|-6|PM2.5|UG/M3|10.2|Louisiana Department of Environmental Quality
+10/02/19|04:00|221210001|Port Allen|-6|OZONE|PPB|5|Louisiana Department of Environmental Quality
+10/02/19|04:00|221210001|Port Allen|-6|RWD|DEGREES|237|Louisiana Department of Environmental Quality
+10/02/19|04:00|221210001|Port Allen|-6|RWS|KNOTS|1.7|Louisiana Department of Environmental Quality
+10/02/19|04:00|230290032|Sipayik-ME|-5|BARPR|MILLIBAR|1000.3|Tribal Environmental Exchange Network
+10/02/19|04:00|230290032|Sipayik-ME|-5|OZONE|PPB|23|Tribal Environmental Exchange Network
+10/02/19|04:00|230290032|Sipayik-ME|-5|PRECIP|MM|0|Tribal Environmental Exchange Network
+10/02/19|04:00|230290032|Sipayik-ME|-5|RHUM|PERCENT|95|Tribal Environmental Exchange Network
+10/02/19|04:00|230290032|Sipayik-ME|-5|RWD|DEGREES|236|Tribal Environmental Exchange Network
+10/02/19|04:00|230290032|Sipayik-ME|-5|RWS|KNOTS|5.6|Tribal Environmental Exchange Network
+10/02/19|04:00|230290032|Sipayik-ME|-5|SRAD|WATTS/M2|-1.1|Tribal Environmental Exchange Network
+10/02/19|04:00|230290032|Sipayik-ME|-5|TEMP|C|15.7|Tribal Environmental Exchange Network
+10/02/19|04:00|260050003|HOLLAND|-5|OZONE|PPB|31|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260050003|HOLLAND|-5|WD|DEGREES|10.5|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260050003|HOLLAND|-5|WS|M/S|1.5|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260170014|BAY CITY|-5|PM2.5|UG/M3|4.7|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260170014|BAY CITY|-5|WD|DEGREES|36.5|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260170014|BAY CITY|-5|WS|M/S|6.3|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260190003|FRANKFORT|-5|OZONE|PPB|14|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260210014|COLOMA|-5|OZONE|PPB|27|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260210014|COLOMA|-5|WD|DEGREES|215.8|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260210014|COLOMA|-5|WS|M/S|3.2|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260270003|CASSOPOLIS|-5|WD|DEGREES|191.3|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260270003|CASSOPOLIS|-5|WS|M/S|0.6|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260370002|ROSELAKE2|-5|OZONE|PPB|23|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260490021|FLINT|-5|OZONE|PPB|21|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260490021|FLINT|-5|PM2.5|UG/M3|4|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260490021|FLINT|-5|WD|DEGREES|303.1|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260490021|FLINT|-5|WS|M/S|2.3|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260492001|OTISVILLE|-5|OZONE|PPB|19|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260492001|OTISVILLE|-5|WD|DEGREES|76|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260492001|OTISVILLE|-5|WS|M/S|1.2|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260630007|HARBOR BEACH|-5|OZONE|PPB|16|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260630007|HARBOR BEACH|-5|WD|DEGREES|357.9|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260630007|HARBOR BEACH|-5|WS|M/S|12.7|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260650018|LANSING FILLEY ST|-5|NO2|PPB|5|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260650018|LANSING FILLEY ST|-5|PM2.5|UG/M3|7.5|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260650018|LANSING FILLEY ST|-5|SO2|PPB|1|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260650018|LANSING FILLEY ST|-5|WD|DEGREES|233.7|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260650018|LANSING FILLEY ST|-5|WS|M/S|0.6|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260770008|KALAMAZOO|-5|OZONE|PPB|21|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260770008|KALAMAZOO|-5|PM2.5|UG/M3|8.4|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260770008|KALAMAZOO|-5|WD|DEGREES|218.7|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260770008|KALAMAZOO|-5|WS|M/S|2.4|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260810020|GRAND RAPIDS|-5|CO|PPM|0.35|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260810020|GRAND RAPIDS|-5|NOY|PPB|3|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260810020|GRAND RAPIDS|-5|OZONE|PPB|28|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260810020|GRAND RAPIDS|-5|PM2.5|UG/M3|1.4|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260810020|GRAND RAPIDS|-5|WD|DEGREES|58.2|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260810020|GRAND RAPIDS|-5|WS|M/S|3|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260810022|EVANS|-5|OZONE|PPB|25|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260810022|EVANS|-5|WD|DEGREES|80.7|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260810022|EVANS|-5|WS|M/S|2.3|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260910007|TECUMSEH|-5|OZONE|PPB|21|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260910007|TECUMSEH|-5|PM2.5|UG/M3|10|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260910007|TECUMSEH|-5|WD|DEGREES|216.9|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260910007|TECUMSEH|-5|WS|M/S|3.6|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260990009|NEW HAVEN|-5|OZONE|PPB|8|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260990009|NEW HAVEN|-5|WD|DEGREES|127|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260990009|NEW HAVEN|-5|WS|M/S|1.9|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|260991003|WARREN|-5|OZONE|PPB|14|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261010922|MANISTEE|-5|OZONE|PPB|13|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261010922|MANISTEE|-5|WD|DEGREES|56|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261010922|MANISTEE|-5|WS|M/S|8.3|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261050007|SCOTTVILLE|-5|OZONE|PPB|13|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261050007|SCOTTVILLE|-5|WD|DEGREES|24.1|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261050007|SCOTTVILLE|-5|WS|M/S|8.8|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261130001|HOUGHTON LAKE|-5|NO2|PPB|1|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261130001|HOUGHTON LAKE|-5|OZONE|PPB|14|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261130001|HOUGHTON LAKE|-5|WD|DEGREES|18.5|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261130001|HOUGHTON LAKE|-5|WS|M/S|4.9|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261150006|MONROE STERLING ST P|-5|SO2|PPB|0|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261150006|MONROE STERLING ST P|-5|WD|DEGREES|220.4|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261150006|MONROE STERLING ST P|-5|WS|M/S|3.3|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261210039|MUSKEGON|-5|OZONE|PPB|25|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261210039|MUSKEGON|-5|WD|DEGREES|1.1|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261210039|MUSKEGON|-5|WS|M/S|0.8|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261250001|OAK PARK|-5|WD|DEGREES|359.7|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261250001|OAK PARK|-5|WS|M/S|1.2|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261390005|JENISON|-5|NOX|PPB|2.5|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261390005|JENISON|-5|OZONE|PPB|28|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261390005|JENISON|-5|WD|DEGREES|18.7|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261390005|JENISON|-5|WS|M/S|3.1|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261390011|WEST OLIVE|-5|SO2|PPB|1|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261390011|WEST OLIVE|-5|WD|DEGREES|42.4|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261390011|WEST OLIVE|-5|WS|M/S|0.6|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261470005|PORT HURON|-5|OZONE|PPB|6|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261470005|PORT HURON|-5|SO2|PPB|1|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261470005|PORT HURON|-5|WD|DEGREES|138.9|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261470005|PORT HURON|-5|WS|M/S|0.7|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261530001|SENEY|-5|OZONE|PPB|13|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261530001|SENEY|-5|PM2.5|UG/M3|0.8|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261530001|SENEY|-5|WD|DEGREES|13.1|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261530001|SENEY|-5|WS|M/S|7|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261610008|YPSILANTI|-5|OZONE|PPB|14|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261610008|YPSILANTI|-5|PM2.5|UG/M3|11.8|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261610008|YPSILANTI|-5|WD|DEGREES|180.3|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261610008|YPSILANTI|-5|WS|M/S|1.2|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630001|ALLEN PARK|-5|OZONE|PPB|20|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630001|ALLEN PARK|-5|PM2.5|UG/M3|7.3|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630001|ALLEN PARK|-5|SO2|PPB|0|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630001|ALLEN PARK|-5|WD|DEGREES|146.1|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630001|ALLEN PARK|-5|WS|M/S|1.7|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630015|DETROIT - SOUTHWEST |-5|SO2|PPB|2|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630015|DETROIT - SOUTHWEST |-5|WD|DEGREES|133.2|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630015|DETROIT - SOUTHWEST |-5|WS|M/S|2|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630019|DETROIT - E 7 MILE|-5|OZONE|PPB|16|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630019|DETROIT - E 7 MILE|-5|WD|DEGREES|103.3|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630019|DETROIT - E 7 MILE|-5|WS|M/S|0.9|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630026|DETROIT - JOY ROAD|-5|WD|DEGREES|138.6|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630026|DETROIT - JOY ROAD|-5|WS|M/S|0.4|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630033|DEARBORN|-5|PM2.5|UG/M3|9.1|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630033|DEARBORN|-5|WD|DEGREES|125|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630033|DEARBORN|-5|WS|M/S|3.1|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630093|Eliza Howell- Roadwa|-5|CO|PPM|0.6|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630093|Eliza Howell- Roadwa|-5|NO|PPB|13.8|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630093|Eliza Howell- Roadwa|-5|NO2|PPB|20|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630093|Eliza Howell- Roadwa|-5|NOX|PPB|33.3|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630093|Eliza Howell- Roadwa|-5|WD|DEGREES|94|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630093|Eliza Howell- Roadwa|-5|WS|M/S|1.1|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630097|NMH48217|-5|PM2.5|UG/M3|7.6|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630097|NMH48217|-5|SO2|PPB|0|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630098|DET POLICE 4TH|-5|CO|PPM|0.4|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630098|DET POLICE 4TH|-5|NO2|PPB|8|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630098|DET POLICE 4TH|-5|PM2.5|UG/M3|7.5|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630098|DET POLICE 4TH|-5|SO2|PPB|0|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630099|TRINITY ST MARKS|-5|CO|PPM|0.3|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630099|TRINITY ST MARKS|-5|NO2|PPB|15|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630099|TRINITY ST MARKS|-5|PM2.5|UG/M3|12.3|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630099|TRINITY ST MARKS|-5|SO2|PPB|1|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630099|TRINITY ST MARKS|-5|WD|DEGREES|114.9|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630099|TRINITY ST MARKS|-5|WS|M/S|0.9|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630100|MILITARY PARK|-5|NO2|PPB|12|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630100|MILITARY PARK|-5|PM2.5|UG/M3|10.9|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|261630100|MILITARY PARK|-5|SO2|PPB|0|Michigan Department of Environment, Great Lakes, and Energy
+10/02/19|04:00|280110002|CLEVELAND|-6|OZONE|PPB|23|Mississippi DEQ
+10/02/19|04:00|280110002|CLEVELAND|-6|PM2.5|UG/M3|15.4|Mississippi DEQ
+10/02/19|04:00|280490020|Jackson NCORE|-6|BARPR|MILLIBAR|1002.4|Mississippi DEQ
+10/02/19|04:00|280490020|Jackson NCORE|-6|CO|PPM|0.5|Mississippi DEQ
+10/02/19|04:00|280490020|Jackson NCORE|-6|OZONE|PPB|3|Mississippi DEQ
+10/02/19|04:00|280490020|Jackson NCORE|-6|PM2.5|UG/M3|21.3|Mississippi DEQ
+10/02/19|04:00|280490020|Jackson NCORE|-6|RHUM|PERCENT|67|Mississippi DEQ
+10/02/19|04:00|280490020|Jackson NCORE|-6|RWD|DEGREES|286.2|Mississippi DEQ
+10/02/19|04:00|280490020|Jackson NCORE|-6|RWS|KNOTS|0.9|Mississippi DEQ
+10/02/19|04:00|280490020|Jackson NCORE|-6|SO2|PPB|1|Mississippi DEQ
+10/02/19|04:00|280490020|Jackson NCORE|-6|TEMP|C|27.4|Mississippi DEQ
+10/02/19|04:00|280490021|Hinds CC|-6|OZONE|PPB|3|Mississippi DEQ
+10/02/19|04:00|280490021|Hinds CC|-6|PM2.5|UG/M3|15.5|Mississippi DEQ
+10/02/19|04:00|280750003|MERIDIAN|-6|OZONE|PPB|18|Mississippi DEQ
+10/02/19|04:00|280810005|TUPELOAP|-6|OZONE|PPB|7|Mississippi DEQ
+10/02/19|04:00|290030001|SAVANNAH|-6|OZONE|PPB|23|Missouri Department of Natural Resources
+10/02/19|04:00|290190011|FGRLAKES|-6|OZONE|PPB|27|Missouri Department of Natural Resources
+10/02/19|04:00|290210005|St. Joseph|-6|BARPR|MILLIBAR|978.5|Missouri Department of Natural Resources
+10/02/19|04:00|290210005|St. Joseph|-6|PM10|UG/M3|16|Missouri Department of Natural Resources
+10/02/19|04:00|290210005|St. Joseph|-6|PM2.5|UG/M3|6.9|Missouri Department of Natural Resources
+10/02/19|04:00|290210005|St. Joseph|-6|RHUM|PERCENT|88|Missouri Department of Natural Resources
+10/02/19|04:00|290210005|St. Joseph|-6|RWD|DEGREES|209|Missouri Department of Natural Resources
+10/02/19|04:00|290210005|St. Joseph|-6|RWS|KNOTS|3|Missouri Department of Natural Resources
+10/02/19|04:00|290210005|St. Joseph|-6|TEMP|C|23.3|Missouri Department of Natural Resources
+10/02/19|04:00|290270002|NWBLMFLD|-6|OZONE|PPB|29|Missouri Department of Natural Resources
+10/02/19|04:00|290370003|RG_SOUTH|-6|BARPR|MILLIBAR|973|Missouri Department of Natural Resources
+10/02/19|04:00|290370003|RG_SOUTH|-6|OZONE|PPB|30|Missouri Department of Natural Resources
+10/02/19|04:00|290370003|RG_SOUTH|-6|PM2.5|UG/M3|6.3|Missouri Department of Natural Resources
+10/02/19|04:00|290370003|RG_SOUTH|-6|RHUM|PERCENT|71|Missouri Department of Natural Resources
+10/02/19|04:00|290370003|RG_SOUTH|-6|RWD|DEGREES|216|Missouri Department of Natural Resources
+10/02/19|04:00|290370003|RG_SOUTH|-6|RWS|KNOTS|4.2|Missouri Department of Natural Resources
+10/02/19|04:00|290370003|RG_SOUTH|-6|TEMP|C|24.7|Missouri Department of Natural Resources
+10/02/19|04:00|290390001|ELDOSPGS|-6|BARPR|MILLIBAR|978.8|Missouri Department of Natural Resources
+10/02/19|04:00|290390001|ELDOSPGS|-6|OZONE|PPB|30|Missouri Department of Natural Resources
+10/02/19|04:00|290390001|ELDOSPGS|-6|PM2.5|UG/M3|9.8|Missouri Department of Natural Resources
+10/02/19|04:00|290390001|ELDOSPGS|-6|RHUM|PERCENT|75|Missouri Department of Natural Resources
+10/02/19|04:00|290390001|ELDOSPGS|-6|RWD|DEGREES|179|Missouri Department of Natural Resources
+10/02/19|04:00|290390001|ELDOSPGS|-6|RWS|KNOTS|7.3|Missouri Department of Natural Resources
+10/02/19|04:00|290390001|ELDOSPGS|-6|TEMP|C|23.6|Missouri Department of Natural Resources
+10/02/19|04:00|290470003|Watkins Mill State P|-6|OZONE|PPB|30|Missouri Department of Natural Resources
+10/02/19|04:00|290470005|LIBERTY|-6|BARPR|MILLIBAR|977.4|Missouri Department of Natural Resources
+10/02/19|04:00|290470005|LIBERTY|-6|OZONE|PPB|30|Missouri Department of Natural Resources
+10/02/19|04:00|290470005|LIBERTY|-6|PM2.5|UG/M3|4.7|Missouri Department of Natural Resources
+10/02/19|04:00|290470005|LIBERTY|-6|RHUM|PERCENT|72|Missouri Department of Natural Resources
+10/02/19|04:00|290470005|LIBERTY|-6|SRAD|WATTS/M2|0.7|Missouri Department of Natural Resources
+10/02/19|04:00|290470005|LIBERTY|-6|TEMP|C|26.3|Missouri Department of Natural Resources
+10/02/19|04:00|290470006|Rocky Creek|-6|OZONE|PPB|33|Missouri Department of Natural Resources
+10/02/19|04:00|290490001|Trimble|-6|OZONE|PPB|32|Missouri Department of Natural Resources
+10/02/19|04:00|290770036|Hillcrest HS|-6|BARPR|MILLIBAR|972.5|Missouri Department of Natural Resources
+10/02/19|04:00|290770036|Hillcrest HS|-6|OZONE|PPB|27|Missouri Department of Natural Resources
+10/02/19|04:00|290770036|Hillcrest HS|-6|PM10|UG/M3|16|Missouri Department of Natural Resources
+10/02/19|04:00|290770036|Hillcrest HS|-6|PM2.5|UG/M3|6.7|Missouri Department of Natural Resources
+10/02/19|04:00|290770036|Hillcrest HS|-6|RHUM|PERCENT|73|Missouri Department of Natural Resources
+10/02/19|04:00|290770036|Hillcrest HS|-6|TEMP|C|23.7|Missouri Department of Natural Resources
+10/02/19|04:00|290770042|Fellows Lake|-6|OZONE|PPB|28|Missouri Department of Natural Resources
+10/02/19|04:00|290930034|Buick NE|-6|BARPR|MILLIBAR|964.6|Missouri Department of Natural Resources
+10/02/19|04:00|290930034|Buick NE|-6|RHUM|PERCENT|66|Missouri Department of Natural Resources
+10/02/19|04:00|290930034|Buick NE|-6|RWD|DEGREES|187|Missouri Department of Natural Resources
+10/02/19|04:00|290930034|Buick NE|-6|RWS|KNOTS|4.1|Missouri Department of Natural Resources
+10/02/19|04:00|290930034|Buick NE|-6|SO2|PPB|2|Missouri Department of Natural Resources
+10/02/19|04:00|290930034|Buick NE|-6|TEMP|C|23.5|Missouri Department of Natural Resources
+10/02/19|04:00|290950018|Front Street|-6|PM10|UG/M3|24|Missouri Department of Natural Resources
+10/02/19|04:00|290950034|Troost|-6|BARPR|MILLIBAR|978.8|Missouri Department of Natural Resources
+10/02/19|04:00|290950034|Troost|-6|NO|PPB|0.1|Missouri Department of Natural Resources
+10/02/19|04:00|290950034|Troost|-6|NO2|PPB|4|Missouri Department of Natural Resources
+10/02/19|04:00|290950034|Troost|-6|NOX|PPB|4.6|Missouri Department of Natural Resources
+10/02/19|04:00|290950034|Troost|-6|PM2.5|UG/M3|3.1|Missouri Department of Natural Resources
+10/02/19|04:00|290950034|Troost|-6|RHUM|PERCENT|62|Missouri Department of Natural Resources
+10/02/19|04:00|290950034|Troost|-6|SO2|PPB|1|Missouri Department of Natural Resources
+10/02/19|04:00|290950034|Troost|-6|TEMP|C|26.5|Missouri Department of Natural Resources
+10/02/19|04:00|290950042|Blue Ridge I-70|-6|BARPR|MILLIBAR|977|Missouri Department of Natural Resources
+10/02/19|04:00|290950042|Blue Ridge I-70|-6|CO|PPM|0.16|Missouri Department of Natural Resources
+10/02/19|04:00|290950042|Blue Ridge I-70|-6|NO|PPB|1.2|Missouri Department of Natural Resources
+10/02/19|04:00|290950042|Blue Ridge I-70|-6|NO2|PPB|5|Missouri Department of Natural Resources
+10/02/19|04:00|290950042|Blue Ridge I-70|-6|NOX|PPB|6.3|Missouri Department of Natural Resources
+10/02/19|04:00|290950042|Blue Ridge I-70|-6|PM2.5|UG/M3|7.5|Missouri Department of Natural Resources
+10/02/19|04:00|290950042|Blue Ridge I-70|-6|PRECIP|MM|0|Missouri Department of Natural Resources
+10/02/19|04:00|290950042|Blue Ridge I-70|-6|RHUM|PERCENT|69|Missouri Department of Natural Resources
+10/02/19|04:00|290950042|Blue Ridge I-70|-6|RWD|DEGREES|230|Missouri Department of Natural Resources
+10/02/19|04:00|290950042|Blue Ridge I-70|-6|RWS|KNOTS|3.5|Missouri Department of Natural Resources
+10/02/19|04:00|290950042|Blue Ridge I-70|-6|SRAD|WATTS/M2|0.8|Missouri Department of Natural Resources
+10/02/19|04:00|290950042|Blue Ridge I-70|-6|TEMP|C|26.2|Missouri Department of Natural Resources
+10/02/19|04:00|290950042|Blue Ridge I-70|-6|UV-AETH|UG/M3|0.4|Missouri Department of Natural Resources
+10/02/19|04:00|290970003|CARTHAGE|-6|PM10|UG/M3|13|Missouri Department of Natural Resources
+10/02/19|04:00|290970003|CARTHAGE|-6|RWD|DEGREES|192|Missouri Department of Natural Resources
+10/02/19|04:00|290970003|CARTHAGE|-6|RWS|KNOTS|1.7|Missouri Department of Natural Resources
+10/02/19|04:00|290970004|ALBA|-6|OZONE|PPB|28|Missouri Department of Natural Resources
+10/02/19|04:00|290990019|ARNOLD|-6|BARPR|MILLIBAR|979|Missouri Department of Natural Resources
+10/02/19|04:00|290990019|ARNOLD|-6|OZONE|PPB|41|Missouri Department of Natural Resources
+10/02/19|04:00|290990019|ARNOLD|-6|PM10|UG/M3|15|Missouri Department of Natural Resources
+10/02/19|04:00|290990019|ARNOLD|-6|PM2.5|UG/M3|4.3|Missouri Department of Natural Resources
+10/02/19|04:00|290990019|ARNOLD|-6|RHUM|PERCENT|69|Missouri Department of Natural Resources
+10/02/19|04:00|290990019|ARNOLD|-6|RWD|DEGREES|211|Missouri Department of Natural Resources
+10/02/19|04:00|290990019|ARNOLD|-6|RWS|KNOTS|4.6|Missouri Department of Natural Resources
+10/02/19|04:00|290990019|ARNOLD|-6|TEMP|C|26.3|Missouri Department of Natural Resources
+10/02/19|04:00|290990027|Herculaneum, Mott St|-6|BARPR|MILLIBAR|999.7|Missouri Department of Natural Resources
+10/02/19|04:00|290990027|Herculaneum, Mott St|-6|RHUM|PERCENT|83|Missouri Department of Natural Resources
+10/02/19|04:00|290990027|Herculaneum, Mott St|-6|RWD|DEGREES|197|Missouri Department of Natural Resources
+10/02/19|04:00|290990027|Herculaneum, Mott St|-6|RWS|KNOTS|0.2|Missouri Department of Natural Resources
+10/02/19|04:00|290990027|Herculaneum, Mott St|-6|SO2|PPB|0|Missouri Department of Natural Resources
+10/02/19|04:00|290990027|Herculaneum, Mott St|-6|TEMP|C|24.5|Missouri Department of Natural Resources
+10/02/19|04:00|291370001|MTSP|-6|NO|PPB|1.9|Missouri Department of Natural Resources
+10/02/19|04:00|291370001|MTSP|-6|NO2|PPB|2|Missouri Department of Natural Resources
+10/02/19|04:00|291370001|MTSP|-6|NOX|PPB|3.5|Missouri Department of Natural Resources
+10/02/19|04:00|291370001|MTSP|-6|OZONE|PPB|28|Missouri Department of Natural Resources
+10/02/19|04:00|291370001|MTSP|-6|PM10|UG/M3|15|Missouri Department of Natural Resources
+10/02/19|04:00|291370001|MTSP|-6|RWD|DEGREES|193|Missouri Department of Natural Resources
+10/02/19|04:00|291370001|MTSP|-6|RWS|KNOTS|5.4|Missouri Department of Natural Resources
+10/02/19|04:00|291370001|MTSP|-6|SO2|PPB|1|Missouri Department of Natural Resources
+10/02/19|04:00|291570001|Farrar|-6|OZONE|PPB|34|Missouri Department of Natural Resources
+10/02/19|04:00|291831002|WEST ALTON|-6|OZONE|PPB|38|Missouri Department of Natural Resources
+10/02/19|04:00|291831002|WEST ALTON|-6|RHUM|PERCENT|60|Missouri Department of Natural Resources
+10/02/19|04:00|291831002|WEST ALTON|-6|RWD|DEGREES|204|Missouri Department of Natural Resources
+10/02/19|04:00|291831002|WEST ALTON|-6|RWS|KNOTS|8.1|Missouri Department of Natural Resources
+10/02/19|04:00|291831002|WEST ALTON|-6|SRAD|WATTS/M2|0.9|Missouri Department of Natural Resources
+10/02/19|04:00|291831002|WEST ALTON|-6|TEMP|C|28.4|Missouri Department of Natural Resources
+10/02/19|04:00|291831004|Orchard Farm|-6|OZONE|PPB|38|Missouri Department of Natural Resources
+10/02/19|04:00|291860005|BONTERRE|-6|OZONE|PPB|42|Missouri Department of Natural Resources
+10/02/19|04:00|291860005|BONTERRE|-6|SRAD|WATTS/M2|0.8|Missouri Department of Natural Resources
+10/02/19|04:00|291890005|Pacific|-6|OZONE|PPB|35|Missouri Department of Natural Resources
+10/02/19|04:00|291890014|Maryland Heights|-6|OZONE|PPB|42|Missouri Department of Natural Resources
+10/02/19|04:00|291890016|Rider Trail I-70|-6|NO|PPB|1.2|Missouri Department of Natural Resources
+10/02/19|04:00|291890016|Rider Trail I-70|-6|NO2|PPB|2|Missouri Department of Natural Resources
+10/02/19|04:00|291890016|Rider Trail I-70|-6|NOX|PPB|3.4|Missouri Department of Natural Resources
+10/02/19|04:00|291890016|Rider Trail I-70|-6|PRECIP|MM|0|Missouri Department of Natural Resources
+10/02/19|04:00|291890016|Rider Trail I-70|-6|RHUM|PERCENT|55|Missouri Department of Natural Resources
+10/02/19|04:00|291890016|Rider Trail I-70|-6|RWD|DEGREES|187|Missouri Department of Natural Resources
+10/02/19|04:00|291890016|Rider Trail I-70|-6|RWS|KNOTS|6.4|Missouri Department of Natural Resources
+10/02/19|04:00|291890016|Rider Trail I-70|-6|SO2|PPB|2|Missouri Department of Natural Resources
+10/02/19|04:00|291890016|Rider Trail I-70|-6|SRAD|WATTS/M2|1|Missouri Department of Natural Resources
+10/02/19|04:00|291890016|Rider Trail I-70|-6|TEMP|C|27.6|Missouri Department of Natural Resources
+10/02/19|04:00|291893001|Ladue|-6|BARPR|MILLIBAR|993.6|Missouri Department of Natural Resources
+10/02/19|04:00|291893001|Ladue|-6|PM2.5|UG/M3|5.9|Missouri Department of Natural Resources
+10/02/19|04:00|291893001|Ladue|-6|RHUM|PERCENT|62|Missouri Department of Natural Resources
+10/02/19|04:00|291893001|Ladue|-6|TEMP|C|27.7|Missouri Department of Natural Resources
+10/02/19|04:00|295100007|BROADWAY (South)|-6|BARPR|MILLIBAR|994.9|Missouri Department of Natural Resources
+10/02/19|04:00|295100007|BROADWAY (South)|-6|PM2.5|UG/M3|5.5|Missouri Department of Natural Resources
+10/02/19|04:00|295100007|BROADWAY (South)|-6|RHUM|PERCENT|58|Missouri Department of Natural Resources
+10/02/19|04:00|295100007|BROADWAY (South)|-6|TEMP|C|27.1|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|BARPR|MILLIBAR|987.1|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|CO|PPM|0.22|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|NO|PPB|0.4|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|NO2|PPB|4|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|NOX|PPB|4.1|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|NOY|PPB|4.7|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|OZONE|PPB|38|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|PM2.5|UG/M3|6|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|RHUM|PERCENT|58|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|RWD|DEGREES|204|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|RWS|KNOTS|1|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|SO2|PPB|1|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|SRAD|WATTS/M2|0.9|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|TEMP|C|28.1|Missouri Department of Natural Resources
+10/02/19|04:00|295100085|BLAIR STREET|-6|UV-AETH|UG/M3|0.55|Missouri Department of Natural Resources
+10/02/19|04:00|295100093|Branch Street|-6|BARPR|MILLIBAR|997|Missouri Department of Natural Resources
+10/02/19|04:00|295100093|Branch Street|-6|PM10|UG/M3|16|Missouri Department of Natural Resources
+10/02/19|04:00|295100093|Branch Street|-6|PM2.5|UG/M3|7.2|Missouri Department of Natural Resources
+10/02/19|04:00|295100093|Branch Street|-6|RHUM|PERCENT|59|Missouri Department of Natural Resources
+10/02/19|04:00|295100093|Branch Street|-6|RWD|DEGREES|204|Missouri Department of Natural Resources
+10/02/19|04:00|295100093|Branch Street|-6|RWS|KNOTS|6.3|Missouri Department of Natural Resources
+10/02/19|04:00|295100093|Branch Street|-6|TEMP|C|28.7|Missouri Department of Natural Resources
+10/02/19|04:00|295100094|Forest Park|-6|BARPR|MILLIBAR|991.8|Missouri Department of Natural Resources
+10/02/19|04:00|295100094|Forest Park|-6|CO|PPM|0.17|Missouri Department of Natural Resources
+10/02/19|04:00|295100094|Forest Park|-6|NO|PPB|0.9|Missouri Department of Natural Resources
+10/02/19|04:00|295100094|Forest Park|-6|NO2|PPB|3|Missouri Department of Natural Resources
+10/02/19|04:00|295100094|Forest Park|-6|NOX|PPB|4.3|Missouri Department of Natural Resources
+10/02/19|04:00|295100094|Forest Park|-6|PM2.5|UG/M3|7.1|Missouri Department of Natural Resources
+10/02/19|04:00|295100094|Forest Park|-6|PRECIP|MM|0|Missouri Department of Natural Resources
+10/02/19|04:00|295100094|Forest Park|-6|RHUM|PERCENT|57|Missouri Department of Natural Resources
+10/02/19|04:00|295100094|Forest Park|-6|RWD|DEGREES|215|Missouri Department of Natural Resources
+10/02/19|04:00|295100094|Forest Park|-6|RWS|KNOTS|3.6|Missouri Department of Natural Resources
+10/02/19|04:00|295100094|Forest Park|-6|SRAD|WATTS/M2|0.8|Missouri Department of Natural Resources
+10/02/19|04:00|295100094|Forest Park|-6|TEMP|C|27.5|Missouri Department of Natural Resources
+10/02/19|04:00|295100094|Forest Park|-6|UV-AETH|UG/M3|0.55|Missouri Department of Natural Resources
+10/02/19|04:00|311090016|Davey|-6|OZONE|PPB|4|Lincoln-Lancaster County Health Department
+10/02/19|04:00|311090022|LLCHD BAM|-6|BARPR|MILLIBAR|964.8|Lincoln-Lancaster County Health Department
+10/02/19|04:00|311090025|Sheldon Station|-6|SO2|PPB|0|Lincoln-Lancaster County Health Department
+10/02/19|04:00|320038000|Las Vegas Paiute|-8|RWD|DEGREES|304|Tribal Environmental Exchange Network
+10/02/19|04:00|320038000|Las Vegas Paiute|-8|RWS|KNOTS|12.2|Tribal Environmental Exchange Network
+10/02/19|04:00|320192012|YPT Campbell Ranch|-8|BARPR|MILLIBAR|868.4|Tribal Environmental Exchange Network
+10/02/19|04:00|320192012|YPT Campbell Ranch|-8|PRECIP|MM|0|Tribal Environmental Exchange Network
+10/02/19|04:00|320192012|YPT Campbell Ranch|-8|RHUM|PERCENT|39.7|Tribal Environmental Exchange Network
+10/02/19|04:00|320192012|YPT Campbell Ranch|-8|TEMP|C|5.6|Tribal Environmental Exchange Network
+10/02/19|04:00|320311026|Wadsworth-NV|-8|BARPR|MILLIBAR|874|Tribal Environmental Exchange Network
+10/02/19|04:00|320311026|Wadsworth-NV|-8|PM10|UG/M3|57|Tribal Environmental Exchange Network
+10/02/19|04:00|320311026|Wadsworth-NV|-8|PRECIP|MM|0|Tribal Environmental Exchange Network
+10/02/19|04:00|320311026|Wadsworth-NV|-8|RHUM|PERCENT|51.3|Tribal Environmental Exchange Network
+10/02/19|04:00|320311026|Wadsworth-NV|-8|RWD|DEGREES|185|Tribal Environmental Exchange Network
+10/02/19|04:00|320311026|Wadsworth-NV|-8|RWS|KNOTS|1|Tribal Environmental Exchange Network
+10/02/19|04:00|320311026|Wadsworth-NV|-8|SRAD|WATTS/M2|0|Tribal Environmental Exchange Network
+10/02/19|04:00|320311026|Wadsworth-NV|-8|TEMP|C|3.1|Tribal Environmental Exchange Network
+10/02/19|04:00|350130008|La Union|-7|OZONE|PPB|21|New Mexico Air Quality Bureau
+10/02/19|04:00|350130016|Anthony|-7|PM10|UG/M3|9|New Mexico Air Quality Bureau
+10/02/19|04:00|350130016|Anthony|-7|PM2.5|UG/M3|1|New Mexico Air Quality Bureau
+10/02/19|04:00|350130019|Holman Rd|-7|PM10|UG/M3|5|New Mexico Air Quality Bureau
+10/02/19|04:00|350130020|Chaparral|-7|OZONE|PPB|31|New Mexico Air Quality Bureau
+10/02/19|04:00|350130020|Chaparral|-7|PM10|UG/M3|5|New Mexico Air Quality Bureau
+10/02/19|04:00|350130022|Santa Teresa|-7|NO2|PPB|2|New Mexico Air Quality Bureau
+10/02/19|04:00|350130022|Santa Teresa|-7|OZONE|PPB|28|New Mexico Air Quality Bureau
+10/02/19|04:00|350130022|Santa Teresa|-7|PM2.5|UG/M3|3|New Mexico Air Quality Bureau
+10/02/19|04:00|350130023|Solano Drive|-7|OZONE|PPB|22|New Mexico Air Quality Bureau
+10/02/19|04:00|350130024|West Mesa|-7|PM10|UG/M3|7|New Mexico Air Quality Bureau
+10/02/19|04:00|350130025|Las Cruces ED|-7|PM2.5|UG/M3|1|New Mexico Air Quality Bureau
+10/02/19|04:00|350151005|Carlsbad|-7|NO2|PPB|3|New Mexico Air Quality Bureau
+10/02/19|04:00|350151005|Carlsbad|-7|OZONE|PPB|12|New Mexico Air Quality Bureau
+10/02/19|04:00|350250008|Hobbs Jefferson|-7|NO2|PPB|1|New Mexico Air Quality Bureau
+10/02/19|04:00|350250008|Hobbs Jefferson|-7|OZONE|PPB|25|New Mexico Air Quality Bureau
+10/02/19|04:00|350250008|Hobbs Jefferson|-7|PM2.5|UG/M3|10|New Mexico Air Quality Bureau
+10/02/19|04:00|350290003|7E Deming Airport|-7|PM10|UG/M3|5|New Mexico Air Quality Bureau
+10/02/19|04:00|350390026|Coyote Ranger Distri|-7|OZONE|PPB|25|New Mexico Air Quality Bureau
+10/02/19|04:00|350431001|Bernalillo|-7|OZONE|PPB|32|New Mexico Air Quality Bureau
+10/02/19|04:00|350450009|Bloomfield|-7|NO2|PPB|2|New Mexico Air Quality Bureau
+10/02/19|04:00|350450009|Bloomfield|-7|OZONE|PPB|45|New Mexico Air Quality Bureau
+10/02/19|04:00|350450009|Bloomfield|-7|SO2|PPB|0|New Mexico Air Quality Bureau
+10/02/19|04:00|350451005|Substation|-7|NO2|PPB|1|New Mexico Air Quality Bureau
+10/02/19|04:00|350451005|Substation|-7|OZONE|PPB|45|New Mexico Air Quality Bureau
+10/02/19|04:00|350451005|Substation|-7|PM10|UG/M3|9|New Mexico Air Quality Bureau
+10/02/19|04:00|350451005|Substation|-7|SO2|PPB|1|New Mexico Air Quality Bureau
+10/02/19|04:00|350490021|Santa Fe Airport|-7|OZONE|PPB|21|New Mexico Air Quality Bureau
+10/02/19|04:00|350490021|Santa Fe Airport|-7|PM2.5|UG/M3|0|New Mexico Air Quality Bureau
+10/02/19|04:00|350550005|Taos Fire Station|-7|PM2.5|UG/M3|-1|New Mexico Air Quality Bureau
+10/02/19|04:00|350610008|2LL Los Lunas|-7|OZONE|PPB|32|New Mexico Air Quality Bureau
+10/02/19|04:00|360337003|St Regis Mohawk-NY|-5|NO|PPB|0|Tribal Environmental Exchange Network
+10/02/19|04:00|360337003|St Regis Mohawk-NY|-5|NO2|PPB|0|Tribal Environmental Exchange Network
+10/02/19|04:00|360337003|St Regis Mohawk-NY|-5|NOX|PPB|0.3|Tribal Environmental Exchange Network
+10/02/19|04:00|360337003|St Regis Mohawk-NY|-5|OZONE|PPB|1|Tribal Environmental Exchange Network
+10/02/19|04:00|360337003|St Regis Mohawk-NY|-5|SO2|PPB|0|Tribal Environmental Exchange Network
+10/02/19|04:00|370670022|HATTIEAVEN|-5|NO|PPB|0|Forsyth County Office of Environmental Assistance and Protection
+10/02/19|04:00|370670022|HATTIEAVEN|-5|NO2|PPB|6|Forsyth County Office of Environmental Assistance and Protection
+10/02/19|04:00|370670022|HATTIEAVEN|-5|NOX|PPB|5.5|Forsyth County Office of Environmental Assistance and Protection
+10/02/19|04:00|370670022|HATTIEAVEN|-5|OZONE|PPB|33|Forsyth County Office of Environmental Assistance and Protection
+10/02/19|04:00|370670022|HATTIEAVEN|-5|PM10|UG/M3|27|Forsyth County Office of Environmental Assistance and Protection
+10/02/19|04:00|370670022|HATTIEAVEN|-5|PM2.5|UG/M3|17.9|Forsyth County Office of Environmental Assistance and Protection
+10/02/19|04:00|370670022|HATTIEAVEN|-5|SO2|PPB|1|Forsyth County Office of Environmental Assistance and Protection
+10/02/19|04:00|370670030|Clemmons Middle|-5|OZONE|PPB|26|Forsyth County Office of Environmental Assistance and Protection
+10/02/19|04:00|370670030|Clemmons Middle|-5|PM2.5|UG/M3|19.7|Forsyth County Office of Environmental Assistance and Protection
+10/02/19|04:00|370671008|UNIONCROSS|-5|BARPR|MILLIBAR|982.8|Forsyth County Office of Environmental Assistance and Protection
+10/02/19|04:00|370671008|UNIONCROSS|-5|OZONE|PPB|30|Forsyth County Office of Environmental Assistance and Protection
+10/02/19|04:00|370671008|UNIONCROSS|-5|TEMP|C|23.3|Forsyth County Office of Environmental Assistance and Protection
+10/02/19|04:00|370671008|UNIONCROSS|-5|WD|DEGREES|214|Forsyth County Office of Environmental Assistance and Protection
+10/02/19|04:00|370671008|UNIONCROSS|-5|WS|M/S|0.9|Forsyth County Office of Environmental Assistance and Protection
+10/02/19|04:00|400170101|Yukon|-6|OZONE|PPB|36|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400170101|Yukon|-6|RHUM|PERCENT|70|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400170101|Yukon|-6|RWD|DEGREES|152|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400170101|Yukon|-6|RWS|KNOTS|6.1|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400170101|Yukon|-6|TEMP|C|25.6|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400190297|Healdton|-6|OZONE|PPB|32|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400190297|Healdton|-6|PM10|UG/M3|17|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400190297|Healdton|-6|PM2.5|UG/M3|7.6|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400270049|Moore|-6|OZONE|PPB|32|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400270049|Moore|-6|PM2.5|UG/M3|31.7|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400310651|Lawton North|-6|OZONE|PPB|33|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400310651|Lawton North|-6|PM10|UG/M3|14|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400310651|Lawton North|-6|PM2.5|UG/M3|6.3|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400310651|Lawton North|-6|RHUM|PERCENT|51|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400310651|Lawton North|-6|RWD|DEGREES|147|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400310651|Lawton North|-6|RWS|KNOTS|5.2|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400310651|Lawton North|-6|TEMP|C|26.7|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400370144|Mannford|-6|OZONE|PPB|32|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400370144|Mannford|-6|RHUM|PERCENT|72|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400370144|Mannford|-6|RWD|DEGREES|165|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400370144|Mannford|-6|RWS|KNOTS|5.2|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400370144|Mannford|-6|TEMP|C|25|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400430860|Seiling|-6|OZONE|PPB|25|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400430860|Seiling|-6|PM10|UG/M3|16|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400430860|Seiling|-6|PM2.5|UG/M3|7.3|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400470555|Kremlin|-6|RHUM|PERCENT|99|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400470555|Kremlin|-6|RWD|DEGREES|162.2|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400470555|Kremlin|-6|RWS|KNOTS|9.5|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400470555|Kremlin|-6|SO2|PPB|0|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400470555|Kremlin|-6|TEMP|C|24.8|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400690324|Tishomingo|-6|OZONE|PPB|26|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400710604|Ponca City|-6|PM10|UG/M3|14|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400710604|Ponca City|-6|PM2.5|UG/M3|6.9|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400710604|Ponca City|-6|SO2|PPB|7|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400970188|Pryor|-6|RHUM|PERCENT|72|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400970188|Pryor|-6|RWD|DEGREES|169.9|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400970188|Pryor|-6|RWS|KNOTS|6.8|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400970188|Pryor|-6|SO2|PPB|0|Oklahoma Department of Environmental Quality
+10/02/19|04:00|400970188|Pryor|-6|TEMP|C|25.3|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401010170|Ft. Gibson|-6|RHUM|PERCENT|73|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401010170|Ft. Gibson|-6|RWD|DEGREES|143.4|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401010170|Ft. Gibson|-6|RWS|KNOTS|1.8|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401010170|Ft. Gibson|-6|SO2|PPB|0|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401010170|Ft. Gibson|-6|TEMP|C|24.5|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401050207|Union|-6|OZONE|PPB|29|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401050207|Union|-6|PM2.5|UG/M3|5.6|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401050207|Union|-6|RHUM|PERCENT|75|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401050207|Union|-6|RWD|DEGREES|173|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401050207|Union|-6|RWS|KNOTS|6.1|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401050207|Union|-6|TEMP|C|25|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401090096|Choctaw|-6|OZONE|PPB|36|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401090096|Choctaw|-6|RHUM|PERCENT|67|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401090096|Choctaw|-6|RWD|DEGREES|159|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401090096|Choctaw|-6|RWS|KNOTS|4.3|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401090096|Choctaw|-6|TEMP|C|25.6|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401090097|Near Road OKC|-6|NO|PPB|9|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401090097|Near Road OKC|-6|NO2|PPB|11|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401090097|Near Road OKC|-6|NOX|PPB|21|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401090097|Near Road OKC|-6|PM10|UG/M3|20|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401090097|Near Road OKC|-6|PM2.5|UG/M3|8.6|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401090097|Near Road OKC|-6|RHUM|PERCENT|62|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401090097|Near Road OKC|-6|RWD|DEGREES|166|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401090097|Near Road OKC|-6|RWS|KNOTS|4.3|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401090097|Near Road OKC|-6|TEMP|C|26.7|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401091037|North OKC|-6|CO|PPM|0.2|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401091037|North OKC|-6|NO|PPB|0|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401091037|North OKC|-6|NO2|PPB|1|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401091037|North OKC|-6|NOX|PPB|0|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401091037|North OKC|-6|OZONE|PPB|37|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401091037|North OKC|-6|PM10|UG/M3|16|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401091037|North OKC|-6|PM2.5|UG/M3|10.3|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401091037|North OKC|-6|RHUM|PERCENT|65|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401091037|North OKC|-6|RWD|DEGREES|163|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401091037|North OKC|-6|RWS|KNOTS|5.4|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401091037|North OKC|-6|SO2|PPB|0|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401091037|North OKC|-6|TEMP|C|26.1|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401130226|Skiatook|-6|OZONE|PPB|32|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401210415|McAlester|-6|OZONE|PPB|28|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401210415|McAlester|-6|PM2.5|UG/M3|8.1|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430174|Glenpool|-6|OZONE|PPB|26|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430174|Glenpool|-6|PM10|UG/M3|14|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430174|Glenpool|-6|PM2.5|UG/M3|6.4|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430174|Glenpool|-6|RHUM|PERCENT|79|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430174|Glenpool|-6|RWD|DEGREES|171|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430174|Glenpool|-6|RWS|KNOTS|1.7|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430174|Glenpool|-6|TEMP|C|23.9|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430175|Tulsa 0175|-6|RHUM|PERCENT|69|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430175|Tulsa 0175|-6|RWD|DEGREES|148|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430175|Tulsa 0175|-6|RWS|KNOTS|1.7|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430175|Tulsa 0175|-6|SO2|PPB|0|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430175|Tulsa 0175|-6|TEMP|C|26.1|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430178|Lynn Lane|-6|OZONE|PPB|29|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430178|Lynn Lane|-6|RHUM|PERCENT|69|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430178|Lynn Lane|-6|RWD|DEGREES|171|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430178|Lynn Lane|-6|RWS|KNOTS|6.1|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430178|Lynn Lane|-6|TEMP|C|25|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430179|Tulsa 0179|-6|RHUM|PERCENT|70|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430179|Tulsa 0179|-6|RWD|DEGREES|216|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430179|Tulsa 0179|-6|RWS|KNOTS|0.9|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430179|Tulsa 0179|-6|SO2|PPB|0|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430179|Tulsa 0179|-6|TEMP|C|26.1|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430235|Tulsa 0235|-6|RHUM|PERCENT|68|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430235|Tulsa 0235|-6|RWD|DEGREES|172|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430235|Tulsa 0235|-6|RWS|KNOTS|7|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430235|Tulsa 0235|-6|SO2|PPB|0|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401430235|Tulsa 0235|-6|TEMP|C|25.6|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401431127|Tulsa|-6|CO|PPM|0.13|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401431127|Tulsa|-6|NO|PPB|0.1|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401431127|Tulsa|-6|NO2|PPB|4|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401431127|Tulsa|-6|NO2Y|PPB|2.8|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401431127|Tulsa|-6|NOX|PPB|3.6|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401431127|Tulsa|-6|NOY|PPB|2.8|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401431127|Tulsa|-6|OZONE|PPB|31|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401431127|Tulsa|-6|PM10|UG/M3|14|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401431127|Tulsa|-6|PM2.5|UG/M3|6.3|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401431127|Tulsa|-6|RHUM|PERCENT|58|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401431127|Tulsa|-6|RWD|DEGREES|178|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401431127|Tulsa|-6|RWS|KNOTS|6.1|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401431127|Tulsa|-6|SO2|PPB|-1|Oklahoma Department of Environmental Quality
+10/02/19|04:00|401431127|Tulsa|-6|TEMP|C|27.2|Oklahoma Department of Environmental Quality
+10/02/19|04:00|410010004|Baker City - Forest |-8|PM2.5|UG/M3|4.4|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410030013|Corvallis - Circle B|-8|PM2.5|UG/M3|3.4|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410050004|Portland - Spangler |-8|OZONE|PPB|25|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410050004|Portland - Spangler |-8|PM2.5|UG/M3|5.2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410050004|Portland - Spangler |-8|RWD|DEGREES|64.1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410050004|Portland - Spangler |-8|RWS|KNOTS|3.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410050004|Portland - Spangler |-8|TEMP|C|10|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410050004|Portland - Spangler |-8|WS|M/S|1.8|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410050102|Multorpor|-8|PM2.5|UG/M3|3.7|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410090004|Portland - Sauvie Is|-8|OZONE|PPB|13|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410090004|Portland - Sauvie Is|-8|PM2.5|UG/M3|2.6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410090004|Portland - Sauvie Is|-8|RWD|DEGREES|304.7|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410090004|Portland - Sauvie Is|-8|RWS|KNOTS|0.6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410090004|Portland - Sauvie Is|-8|TEMP|C|6.9|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410090004|Portland - Sauvie Is|-8|WS|M/S|0.8|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410111036|CTCLUSI Radar Hill-O|-8|BARPR|MILLIBAR|1009|Tribal Environmental Exchange Network
+10/02/19|04:00|410111036|CTCLUSI Radar Hill-O|-8|PM2.5|UG/M3|15.8|Tribal Environmental Exchange Network
+10/02/19|04:00|410111036|CTCLUSI Radar Hill-O|-8|PRECIP|MM|0|Tribal Environmental Exchange Network
+10/02/19|04:00|410111036|CTCLUSI Radar Hill-O|-8|RHUM|PERCENT|77.9|Tribal Environmental Exchange Network
+10/02/19|04:00|410111036|CTCLUSI Radar Hill-O|-8|RWD|DEGREES|324|Tribal Environmental Exchange Network
+10/02/19|04:00|410111036|CTCLUSI Radar Hill-O|-8|RWS|KNOTS|1.7|Tribal Environmental Exchange Network
+10/02/19|04:00|410111036|CTCLUSI Radar Hill-O|-8|SRAD|WATTS/M2|14.6|Tribal Environmental Exchange Network
+10/02/19|04:00|410111036|CTCLUSI Radar Hill-O|-8|TEMP|C|9.7|Tribal Environmental Exchange Network
+10/02/19|04:00|410130100|Prineville - Davidso|-8|BARPR|MILLIBAR|919|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410130100|Prineville - Davidso|-8|PM2.5|UG/M3|5|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410130100|Prineville - Davidso|-8|RHUM|PERCENT|69|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410130100|Prineville - Davidso|-8|RWD|DEGREES|24.4|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410130100|Prineville - Davidso|-8|RWS|KNOTS|1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410130100|Prineville - Davidso|-8|SRAD|WATTS/M2|0.1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410130100|Prineville - Davidso|-8|TEMP|C|2.4|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410130100|Prineville - Davidso|-8|WS|M/S|0.6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410170004|Sisters Forest Servi|-8|PM2.5|UG/M3|4.2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410170120|Bend - Pump Station|-8|PM2.5|UG/M3|11.6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410170122|Bend - Road Departme|-8|BARPR|MILLIBAR|888.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410170122|Bend - Road Departme|-8|RHUM|PERCENT|95|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410170122|Bend - Road Departme|-8|RWD|DEGREES|199.7|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410170122|Bend - Road Departme|-8|RWS|KNOTS|1.6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410170122|Bend - Road Departme|-8|SRAD|WATTS/M2|11.1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410170122|Bend - Road Departme|-8|TEMP|C|-0.4|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410170122|Bend - Road Departme|-8|WS|M/S|0.8|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410190002|Roseburg - Garden Va|-8|PM2.5|UG/M3|8.4|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410230002|John Day Dayton St|-8|PM2.5|UG/M3|8.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410250003|Burns - Washington S|-8|BARPR|MILLIBAR|875.4|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410250003|Burns - Washington S|-8|PM2.5|UG/M3|6.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410250003|Burns - Washington S|-8|RWD|DEGREES|332.4|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410250003|Burns - Washington S|-8|RWS|KNOTS|2.9|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410250003|Burns - Washington S|-8|TEMP|C|1.1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410250003|Burns - Washington S|-8|WS|M/S|1.6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410290019|Shady Cove - Shady C|-8|PM2.5|UG/M3|4.4|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410290201|Talent - Rapp Lane|-8|OZONE|PPB|23|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410290201|Talent - Rapp Lane|-8|PM2.5|UG/M3|3.7|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410290203|Ashland Fire Dept|-8|PM2.5|UG/M3|8.6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410292129|Medford Welch & Jack|-8|PM2.5|UG/M3|4.8|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410310007|Madras - Westside Sc|-8|PM2.5|UG/M3|7.6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410330011|Provolt - Seed Orcha|-8|PM2.5|UG/M3|4|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410330036|Cave Junction Forest|-8|PM2.5|UG/M3|11.2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410330114|Grants Pass - Parksi|-8|BARPR|MILLIBAR|983.6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410330114|Grants Pass - Parksi|-8|PM2.5|UG/M3|6.7|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410330114|Grants Pass - Parksi|-8|RWD|DEGREES|288.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410330114|Grants Pass - Parksi|-8|RWS|KNOTS|0.6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410330114|Grants Pass - Parksi|-8|TEMP|C|8|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410330114|Grants Pass - Parksi|-8|WS|M/S|0.5|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410350004|Klamath Falls - Pete|-8|BARPR|MILLIBAR|875.1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410350004|Klamath Falls - Pete|-8|PM2.5|UG/M3|17.4|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410350004|Klamath Falls - Pete|-8|RHUM|PERCENT|76|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410350004|Klamath Falls - Pete|-8|RWS|KNOTS|0.2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410350004|Klamath Falls - Pete|-8|TEMP|C|2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410350004|Klamath Falls - Pete|-8|WS|M/S|0.4|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410370001|Lakeview - Center & |-8|BARPR|MILLIBAR|856.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410370001|Lakeview - Center & |-8|PM2.5|UG/M3|3.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410370001|Lakeview - Center & |-8|RWD|DEGREES|72.9|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410370001|Lakeview - Center & |-8|RWS|KNOTS|3.1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410370001|Lakeview - Center & |-8|TEMP|C|1.6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410370001|Lakeview - Center & |-8|WS|M/S|1.7|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410390059|Eugene - Highway 99|-8|PM2.5|UG/M3|9.6|Lane Regional Air Protection Agency
+10/02/19|04:00|410390060|Eugene - Amazon Park|-8|PM2.5|UG/M3|13.2|Lane Regional Air Protection Agency
+10/02/19|04:00|410391009|Springfield City Hal|-8|PM2.5|UG/M3|10|Lane Regional Air Protection Agency
+10/02/19|04:00|410392013|Oakridge - Willamett|-8|PM2.5|UG/M3|16.8|Lane Regional Air Protection Agency
+10/02/19|04:00|410399004|Cottage Grove City S|-8|PM2.5|UG/M3|13|Lane Regional Air Protection Agency
+10/02/19|04:00|410430009|Albany - Calapooia S|-8|PM2.5|UG/M3|4.5|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410430104|Mill City|-8|PM2.5|UG/M3|8.8|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410432002|Sweet Home - Fire De|-8|PM2.5|UG/M3|16.7|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410432003|Lyons|-8|PM2.5|UG/M3|10.9|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410470004|Turner - CJHS|-8|OZONE|PPB|20|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410470004|Turner - CJHS|-8|PM2.5|UG/M3|8.6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410470004|Turner - CJHS|-8|RWD|DEGREES|9.1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410470004|Turner - CJHS|-8|RWS|KNOTS|2.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410470004|Turner - CJHS|-8|TEMP|C|7.6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410470004|Turner - CJHS|-8|WS|M/S|1.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410470007|Silverton|-8|PM2.5|UG/M3|9.2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410470041|Salem - State Hospit|-8|OZONE|PPB|8|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410470041|Salem - State Hospit|-8|PM2.5|UG/M3|8.1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410470123|Detroit Lake|-8|PM2.5|UG/M3|2.2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410510080|Portland - SE Lafaye|-8|BARPR|MILLIBAR|1010.2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410510080|Portland - SE Lafaye|-8|NO|PPB|21.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410510080|Portland - SE Lafaye|-8|NO2|PPB|23|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410510080|Portland - SE Lafaye|-8|NOX|PPB|44.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410510080|Portland - SE Lafaye|-8|OZONE|PPB|2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410510080|Portland - SE Lafaye|-8|PM2.5|UG/M3|11.1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410510080|Portland - SE Lafaye|-8|RHUM|PERCENT|70.2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410510080|Portland - SE Lafaye|-8|RWD|DEGREES|94.6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410510080|Portland - SE Lafaye|-8|RWS|KNOTS|3.1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410510080|Portland - SE Lafaye|-8|SO2|PPB|1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410510080|Portland - SE Lafaye|-8|SRAD|WATTS/M2|0|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410510080|Portland - SE Lafaye|-8|TEMP|C|7.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410510080|Portland - SE Lafaye|-8|WS|M/S|1.7|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410590121|Pendleton - McKay Cr|-8|BARPR|MILLIBAR|983.1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410590121|Pendleton - McKay Cr|-8|PM2.5|UG/M3|8.4|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410591003|Hermiston - Municipa|-8|OZONE|PPB|6|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410591003|Hermiston - Municipa|-8|PM2.5|UG/M3|4.1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410591003|Hermiston - Municipa|-8|RWD|DEGREES|168.9|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410591003|Hermiston - Municipa|-8|RWS|KNOTS|5.1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410591003|Hermiston - Municipa|-8|TEMP|C|7.9|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410591003|Hermiston - Municipa|-8|WS|M/S|2.7|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410610120|Cove - City Hall|-8|PM2.5|UG/M3|9.2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410610123|La Grande Hall & N S|-8|BARPR|MILLIBAR|849.2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410610123|La Grande Hall & N S|-8|PM2.5|UG/M3|6.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410610123|La Grande Hall & N S|-8|RHUM|PERCENT|64|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410610123|La Grande Hall & N S|-8|RWD|DEGREES|259.7|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410610123|La Grande Hall & N S|-8|RWS|KNOTS|2.1|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410610123|La Grande Hall & N S|-8|TEMP|C|4.2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410610123|La Grande Hall & N S|-8|WS|M/S|1.2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410630001|Enterprise - US Fore|-8|PM2.5|UG/M3|21.5|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410650007|The Dalles - Cherry |-8|PM2.5|UG/M3|5|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410670004|Hillsboro - Hare Fie|-8|PM2.5|UG/M3|7.2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410670005|Portland Near Road|-8|BC|UG/M3|1.9|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410670005|Portland Near Road|-8|NO|PPB|13.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410670005|Portland Near Road|-8|NO2|PPB|19|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410670005|Portland Near Road|-8|NOX|PPB|32.7|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410670005|Portland Near Road|-8|OZONE|PPB|3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410670005|Portland Near Road|-8|PM2.5|UG/M3|8.8|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410670005|Portland Near Road|-8|RHUM|PERCENT|70.4|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410670005|Portland Near Road|-8|RWD|DEGREES|122|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410670005|Portland Near Road|-8|RWS|KNOTS|1.2|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410670005|Portland Near Road|-8|TEMP|C|9.7|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410670005|Portland Near Road|-8|WS|M/S|0.9|Oregon Dept. of Environmental Quality
+10/02/19|04:00|410670111|Beaverton - Highland|-8|PM2.5|UG/M3|4.3|Oregon Dept. of Environmental Quality
+10/02/19|04:00|420010001|Arendtsville|-5|OZONE|PPB|36|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420010001|Arendtsville|-5|PM2.5|UG/M3|12.4|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420050001|Kittanning|-5|OZONE|PPB|6|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420050001|Kittanning|-5|PM2.5|UG/M3|8.8|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420070002|Hookstown|-5|OZONE|PPB|37|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420070005|Brighton Township|-5|OZONE|PPB|34|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420110006|Kutztown|-5|OZONE|PPB|15|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420110011|Reading Airport|-5|PM2.5|UG/M3|8.8|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420130801|Altoona|-5|OZONE|PPB|7|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420130801|Altoona|-5|PM2.5|UG/M3|17.6|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420150011|Towanda|-5|OZONE|PPB|22|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420150011|Towanda|-5|PM2.5|UG/M3|12.8|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420170012|Bristol|-5|BARPR|MILLIBAR|1011.4|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420170012|Bristol|-5|OZONE|PPB|23|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420170012|Bristol|-5|PRECIP|MM|0|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420170012|Bristol|-5|RHUM|PERCENT|84.6|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420170012|Bristol|-5|RWD|DEGREES|221|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420170012|Bristol|-5|SRAD|WATTS/M2|0|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420170012|Bristol|-5|TEMP|C|21.7|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420170012|Bristol|-5|WS|M/S|1.7|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420210011|Johnstown|-5|OZONE|PPB|10|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420210011|Johnstown|-5|PM2.5|UG/M3|16.8|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420270100|State College|-5|OZONE|PPB|32|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420270100|State College|-5|PM2.5|UG/M3|16.3|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420290100|New Garden|-5|OZONE|PPB|28|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420290100|New Garden|-5|PM2.5|UG/M3|8.7|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420334000|Moshannon|-5|OZONE|PPB|35|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420410101|Carlisle|-5|PM2.5|UG/M3|15.1|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420430401|Harrisburg|-5|OZONE|PPB|36|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420430401|Harrisburg|-5|PM2.5|UG/M3|7.5|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420431100|Hershey|-5|OZONE|PPB|39|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420450002|Chester|-5|BARPR|MILLIBAR|1013.4|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420450002|Chester|-5|OZONE|PPB|28|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420450002|Chester|-5|PM2.5|UG/M3|7.8|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420450002|Chester|-5|PRECIP|MM|0|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420450002|Chester|-5|RHUM|PERCENT|75.9|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420450002|Chester|-5|RWD|DEGREES|158|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420450002|Chester|-5|SRAD|WATTS/M2|0|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420450002|Chester|-5|TEMP|C|22.2|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420450002|Chester|-5|WS|M/S|3.5|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420450109|Marcus Hook|-5|PM2.5|UG/M3|8.8|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420490003|Erie|-5|OZONE|PPB|35|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420490003|Erie|-5|PM2.5|UG/M3|9.5|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420550001|Methodist Hill|-5|OZONE|PPB|39|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420590002|Holbrook|-5|OZONE|PPB|32|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420590002|Holbrook|-5|PM2.5|UG/M3|10.5|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420630004|Strongstown|-5|OZONE|PPB|38|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420690101|Peckville|-5|OZONE|PPB|2|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420692006|Scranton|-5|OZONE|PPB|3|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420692006|Scranton|-5|PM2.5|UG/M3|13.3|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420710007|Lancaster|-5|OZONE|PPB|14|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420710007|Lancaster|-5|PM2.5|UG/M3|7.9|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420710012|Lancaster DW|-5|OZONE|PPB|18|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420710012|Lancaster DW|-5|PM2.5|UG/M3|8|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420730015|New Castle|-5|OZONE|PPB|7|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420750100|Lebanon|-5|OZONE|PPB|33|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420750100|Lebanon|-5|PM2.5|UG/M3|13|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420770004|Allentown|-5|OZONE|PPB|44|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420770004|Allentown|-5|PM2.5|UG/M3|10.5|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420791101|Wilkes-Barre|-5|OZONE|PPB|4|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420810100|Montoursville|-5|OZONE|PPB|0|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420850100|Farrell|-5|OZONE|PPB|31|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420850100|Farrell|-5|PM2.5|UG/M3|11.6|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420890002|Swiftwater|-5|OZONE|PPB|24|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420910013|Norristown|-5|BARPR|MILLIBAR|1006|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420910013|Norristown|-5|OZONE|PPB|23|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420910013|Norristown|-5|PM2.5|UG/M3|5.8|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420910013|Norristown|-5|PRECIP|MM|0|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420910013|Norristown|-5|RHUM|PERCENT|80.7|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420910013|Norristown|-5|RWD|DEGREES|213|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420910013|Norristown|-5|SRAD|WATTS/M2|0|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420910013|Norristown|-5|TEMP|C|22.8|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420910013|Norristown|-5|WS|M/S|1.7|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420950025|Freemansburg|-5|OZONE|PPB|35|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|420950025|Freemansburg|-5|PM2.5|UG/M3|16.2|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|421174000|Tioga County|-5|OZONE|PPB|44|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|421174000|Tioga County|-5|PM2.5|UG/M3|11.9|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|421250005|Charleroi|-5|OZONE|PPB|6|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|421250005|Charleroi|-5|PM2.5|UG/M3|16.1|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|421255001|Florence|-5|OZONE|PPB|20|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|421255001|Florence|-5|PM2.5|UG/M3|15.3|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|421290008|Greensburg|-5|OZONE|PPB|31|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|421290008|Greensburg|-5|PM2.5|UG/M3|14.3|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|421330008|York|-5|OZONE|PPB|34|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|421330008|York|-5|PM2.5|UG/M3|11|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|421330011|York DW|-5|OZONE|PPB|22|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|560050123|Thunder Basin|-7|BARPR|MILLIBAR|883.9|Wyoming Department of Environmental Quality
+10/02/19|04:00|560050123|Thunder Basin|-7|NO|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560050123|Thunder Basin|-7|NO2|PPB|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560050123|Thunder Basin|-7|NOX|PPB|1.2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560050123|Thunder Basin|-7|OZONE|PPB|16|Wyoming Department of Environmental Quality
+10/02/19|04:00|560050123|Thunder Basin|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560050123|Thunder Basin|-7|RHUM|PERCENT|100.9|Wyoming Department of Environmental Quality
+10/02/19|04:00|560050123|Thunder Basin|-7|RWD|DEGREES|19.7|Wyoming Department of Environmental Quality
+10/02/19|04:00|560050123|Thunder Basin|-7|SRAD|WATTS/M2|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560050123|Thunder Basin|-7|TEMP|C|1.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560050123|Thunder Basin|-7|WS|M/S|2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560090010|Converse County Long|-7|BARPR|MILLIBAR|834.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|560090010|Converse County Long|-7|CO|PPM|0.06|Wyoming Department of Environmental Quality
+10/02/19|04:00|560090010|Converse County Long|-7|NO|PPB|-0.3|Wyoming Department of Environmental Quality
+10/02/19|04:00|560090010|Converse County Long|-7|NO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560090010|Converse County Long|-7|NOX|PPB|0.9|Wyoming Department of Environmental Quality
+10/02/19|04:00|560090010|Converse County Long|-7|OZONE|PPB|15|Wyoming Department of Environmental Quality
+10/02/19|04:00|560090010|Converse County Long|-7|PM10|UG/M3|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560090010|Converse County Long|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560090010|Converse County Long|-7|RHUM|PERCENT|100.4|Wyoming Department of Environmental Quality
+10/02/19|04:00|560090010|Converse County Long|-7|SRAD|WATTS/M2|-0.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560090010|Converse County Long|-7|TEMP|C|0.3|Wyoming Department of Environmental Quality
+10/02/19|04:00|560090010|Converse County Long|-7|WD|DEGREES|95.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|560090010|Converse County Long|-7|WS|M/S|4.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560130099|South Pass|-7|BARPR|MILLIBAR|747|Wyoming Department of Environmental Quality
+10/02/19|04:00|560130099|South Pass|-7|NO|PPB|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560130099|South Pass|-7|NO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560130099|South Pass|-7|NOX|PPB|0.7|Wyoming Department of Environmental Quality
+10/02/19|04:00|560130099|South Pass|-7|OZONE|PPB|19|Wyoming Department of Environmental Quality
+10/02/19|04:00|560130099|South Pass|-7|PM2.5|UG/M3|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560130099|South Pass|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560130099|South Pass|-7|RHUM|PERCENT|100.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|560130099|South Pass|-7|RWD|DEGREES|11|Wyoming Department of Environmental Quality
+10/02/19|04:00|560130099|South Pass|-7|RWS|KNOTS|11.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560130099|South Pass|-7|SRAD|WATTS/M2|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560130099|South Pass|-7|TEMP|C|-1.7|Wyoming Department of Environmental Quality
+10/02/19|04:00|560130099|South Pass|-7|WS|M/S|5.8|Wyoming Department of Environmental Quality
+10/02/19|04:00|560190004|Johnson County|-7|NO|PPB|-0.2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560190004|Johnson County|-7|NO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560190004|Johnson County|-7|NOX|PPB|0.9|Wyoming Department of Environmental Quality
+10/02/19|04:00|560190004|Johnson County|-7|OZONE|PPB|18|Wyoming Department of Environmental Quality
+10/02/19|04:00|560190004|Johnson County|-7|PM10|UG/M3|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560190004|Johnson County|-7|RHUM|PERCENT|97.9|Wyoming Department of Environmental Quality
+10/02/19|04:00|560190004|Johnson County|-7|RWD|DEGREES|347.7|Wyoming Department of Environmental Quality
+10/02/19|04:00|560190004|Johnson County|-7|RWS|KNOTS|6.9|Wyoming Department of Environmental Quality
+10/02/19|04:00|560190004|Johnson County|-7|TEMP|C|0.8|Wyoming Department of Environmental Quality
+10/02/19|04:00|560190004|Johnson County|-7|WS|M/S|3.6|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|BARPR|MILLIBAR|1082.7|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|CO|PPM|0.15|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|NO|PPB|-0.2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|NO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|NOX|PPB|1.4|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|NOY|PPB|1.3|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|OZONE|PPB|12|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|PM10|UG/M3|-2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|PM2.5|UG/M3|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|RHUM|PERCENT|97.4|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|RWD|DEGREES|76.9|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|RWS|KNOTS|6.8|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|SO2|PPB|2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|SRAD|WATTS/M2|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|TEMP|C|3.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|560210100|Cheyenne NCore|-7|WS|M/S|3.6|Wyoming Department of Environmental Quality
+10/02/19|04:00|560250100|Casper Gaseous|-7|BARPR|MILLIBAR|840.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|560250100|Casper Gaseous|-7|NO|PPB|0.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560250100|Casper Gaseous|-7|NO2|PPB|3|Wyoming Department of Environmental Quality
+10/02/19|04:00|560250100|Casper Gaseous|-7|NOX|PPB|2.7|Wyoming Department of Environmental Quality
+10/02/19|04:00|560250100|Casper Gaseous|-7|OZONE|PPB|12|Wyoming Department of Environmental Quality
+10/02/19|04:00|560250100|Casper Gaseous|-7|PM2.5|UG/M3|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560250100|Casper Gaseous|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560250100|Casper Gaseous|-7|RWD|DEGREES|72|Wyoming Department of Environmental Quality
+10/02/19|04:00|560250100|Casper Gaseous|-7|SRAD|WATTS/M2|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560250100|Casper Gaseous|-7|TEMP|C|2.6|Wyoming Department of Environmental Quality
+10/02/19|04:00|560250100|Casper Gaseous|-7|WS|M/S|4|Wyoming Department of Environmental Quality
+10/02/19|04:00|560330002|Sheridan PD|-7|PM10|UG/M3|3|Wyoming Department of Environmental Quality
+10/02/19|04:00|560330002|Sheridan PD|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560330002|Sheridan PD|-7|RHUM|PERCENT|88.4|Wyoming Department of Environmental Quality
+10/02/19|04:00|560330002|Sheridan PD|-7|TEMP|C|1.9|Wyoming Department of Environmental Quality
+10/02/19|04:00|560330002|Sheridan PD|-7|WD|DEGREES|53|Wyoming Department of Environmental Quality
+10/02/19|04:00|560330002|Sheridan PD|-7|WS|M/S|1.6|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350099|Boulder|-7|BARPR|MILLIBAR|781.2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350099|Boulder|-7|NO|PPB|-0.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350099|Boulder|-7|NO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350099|Boulder|-7|NOX|PPB|0.8|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350099|Boulder|-7|OZONE|PPB|34|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350099|Boulder|-7|PM10|UG/M3|6|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350099|Boulder|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350099|Boulder|-7|RHUM|PERCENT|67.6|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350099|Boulder|-7|RWD|DEGREES|43.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350099|Boulder|-7|RWS|KNOTS|4|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350099|Boulder|-7|SRAD|WATTS/M2|0.2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350099|Boulder|-7|TEMP|C|3.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350099|Boulder|-7|WS|M/S|2.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350100|Daniel South|-7|BARPR|MILLIBAR|780.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350100|Daniel South|-7|NO|PPB|-0.2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350100|Daniel South|-7|NO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350100|Daniel South|-7|NOX|PPB|0.3|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350100|Daniel South|-7|OZONE|PPB|32|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350100|Daniel South|-7|PM10|UG/M3|9|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350100|Daniel South|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350100|Daniel South|-7|RHUM|PERCENT|72|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350100|Daniel South|-7|SRAD|WATTS/M2|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350100|Daniel South|-7|TEMP|C|2.9|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350100|Daniel South|-7|WD|DEGREES|285.7|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350100|Daniel South|-7|WS|M/S|2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350101|Pinedale Gaseous|-7|NO|PPB|0.2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350101|Pinedale Gaseous|-7|NO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350101|Pinedale Gaseous|-7|NOX|PPB|1.3|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350101|Pinedale Gaseous|-7|OZONE|PPB|26|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350101|Pinedale Gaseous|-7|PM2.5|UG/M3|4|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350101|Pinedale Gaseous|-7|RHUM|PERCENT|85.4|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350101|Pinedale Gaseous|-7|TEMP|C|-0.6|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350101|Pinedale Gaseous|-7|WD|DEGREES|293.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350101|Pinedale Gaseous|-7|WS|M/S|2.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350700|Big Piney|-7|BARPR|MILLIBAR|789.2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350700|Big Piney|-7|NO|PPB|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350700|Big Piney|-7|NO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350700|Big Piney|-7|NOX|PPB|0.7|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350700|Big Piney|-7|OZONE|PPB|35|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350700|Big Piney|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350700|Big Piney|-7|RHUM|PERCENT|58.8|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350700|Big Piney|-7|SRAD|WATTS/M2|-3.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350700|Big Piney|-7|TEMP|C|4|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350700|Big Piney|-7|WD|DEGREES|296.6|Wyoming Department of Environmental Quality
+10/02/19|04:00|560350700|Big Piney|-7|WS|M/S|1.9|Wyoming Department of Environmental Quality
+10/02/19|04:00|560351002|Juel Spring|-7|BARPR|MILLIBAR|782.8|Wyoming Department of Environmental Quality
+10/02/19|04:00|560351002|Juel Spring|-7|NO|PPB|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560351002|Juel Spring|-7|NO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560351002|Juel Spring|-7|NOX|PPB|0.7|Wyoming Department of Environmental Quality
+10/02/19|04:00|560351002|Juel Spring|-7|OZONE|PPB|20|Wyoming Department of Environmental Quality
+10/02/19|04:00|560351002|Juel Spring|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560351002|Juel Spring|-7|RHUM|PERCENT|87|Wyoming Department of Environmental Quality
+10/02/19|04:00|560351002|Juel Spring|-7|SRAD|WATTS/M2|0.2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560351002|Juel Spring|-7|TEMP|C|1.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|560351002|Juel Spring|-7|WD|DEGREES|107|Wyoming Department of Environmental Quality
+10/02/19|04:00|560351002|Juel Spring|-7|WS|M/S|4.8|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370077|Hiawatha|-7|BARPR|MILLIBAR|779.8|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370077|Hiawatha|-7|OZONE|PPB|23|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370077|Hiawatha|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370077|Hiawatha|-7|RHUM|PERCENT|74.2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370077|Hiawatha|-7|RWD|DEGREES|21.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370077|Hiawatha|-7|RWS|KNOTS|12.9|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370077|Hiawatha|-7|SRAD|WATTS/M2|-0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370077|Hiawatha|-7|TEMP|C|4.2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370077|Hiawatha|-7|WS|M/S|7.3|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370200|Wamsutter|-7|BARPR|MILLIBAR|791.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370200|Wamsutter|-7|NO|PPB|0.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370200|Wamsutter|-7|NO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370200|Wamsutter|-7|NOX|PPB|0.7|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370200|Wamsutter|-7|OZONE|PPB|17|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370200|Wamsutter|-7|PM10|UG/M3|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370200|Wamsutter|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370200|Wamsutter|-7|RHUM|PERCENT|84.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370200|Wamsutter|-7|RWD|DEGREES|17|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370200|Wamsutter|-7|RWS|KNOTS|10.9|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370200|Wamsutter|-7|SRAD|WATTS/M2|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370200|Wamsutter|-7|TEMP|C|2.4|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370200|Wamsutter|-7|WS|M/S|5.7|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370300|Moxa Arch|-7|BARPR|MILLIBAR|799.6|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370300|Moxa Arch|-7|NO|PPB|0.3|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370300|Moxa Arch|-7|NO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370300|Moxa Arch|-7|NOX|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370300|Moxa Arch|-7|OZONE|PPB|38|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370300|Moxa Arch|-7|PM10|UG/M3|6|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370300|Moxa Arch|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370300|Moxa Arch|-7|RHUM|PERCENT|50|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370300|Moxa Arch|-7|RWD|DEGREES|315.3|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370300|Moxa Arch|-7|RWS|KNOTS|7.6|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370300|Moxa Arch|-7|SO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370300|Moxa Arch|-7|SRAD|WATTS/M2|0.2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370300|Moxa Arch|-7|TEMP|C|6|Wyoming Department of Environmental Quality
+10/02/19|04:00|560370300|Moxa Arch|-7|WS|M/S|4.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560410101|Murphy Ridge|-7|BARPR|MILLIBAR|786.9|Wyoming Department of Environmental Quality
+10/02/19|04:00|560410101|Murphy Ridge|-7|NO|PPB|0.2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560410101|Murphy Ridge|-7|NO2|PPB|2|Wyoming Department of Environmental Quality
+10/02/19|04:00|560410101|Murphy Ridge|-7|NOX|PPB|1.7|Wyoming Department of Environmental Quality
+10/02/19|04:00|560410101|Murphy Ridge|-7|OZONE|PPB|43|Wyoming Department of Environmental Quality
+10/02/19|04:00|560410101|Murphy Ridge|-7|PM10|UG/M3|11|Wyoming Department of Environmental Quality
+10/02/19|04:00|560410101|Murphy Ridge|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560410101|Murphy Ridge|-7|RHUM|PERCENT|55.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|560410101|Murphy Ridge|-7|SRAD|WATTS/M2|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|560410101|Murphy Ridge|-7|TEMP|C|4.6|Wyoming Department of Environmental Quality
+10/02/19|04:00|560410101|Murphy Ridge|-7|WD|DEGREES|262.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|560410101|Murphy Ridge|-7|WS|M/S|2.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|800020014|SPABC14 COBACH|-8|NO|PPB|73.4|Baja California
+10/02/19|04:00|800020014|SPABC14 COBACH|-8|NO2|PPB|51|Baja California
+10/02/19|04:00|800020014|SPABC14 COBACH|-8|OZONE|PPB|39|Baja California
+10/02/19|04:00|800020014|SPABC14 COBACH|-8|PM2.5|UG/M3|37|Baja California
+10/02/19|04:00|80011G001|Estación Seguridad P|-6|CO|PPM|0.9|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G001|Estación Seguridad P|-6|OZONE|PPB|23|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G001|Estación Seguridad P|-6|PM10|UG/M3|20|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G001|Estación Seguridad P|-6|PM2.5|UG/M3|17.8|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G001|Estación Seguridad P|-6|SO2|PPB|5|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G001|Estación Seguridad P|-6|WD|DEGREES|105.1|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G001|Estación Seguridad P|-6|WS|M/S|3.2|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G002|Estación Tecnológico|-6|OZONE|PPB|25|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G002|Estación Tecnológico|-6|PM10|UG/M3|33|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G002|Estación Tecnológico|-6|WD|DEGREES|68.6|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G002|Estación Tecnológico|-6|WS|M/S|3.4|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G003|Estación San Juanico|-6|CO|PPM|1.69|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G003|Estación San Juanico|-6|OZONE|PPB|23|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G003|Estación San Juanico|-6|PM10|UG/M3|21|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G003|Estación San Juanico|-6|PM2.5|UG/M3|19.8|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G003|Estación San Juanico|-6|SO2|PPB|7|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G003|Estación San Juanico|-6|WD|DEGREES|81.9|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G003|Estación San Juanico|-6|WS|M/S|2.1|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G004|Estación Bomberos|-6|OZONE|PPB|28|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G004|Estación Bomberos|-6|PM10|UG/M3|31|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G004|Estación Bomberos|-6|PM2.5|UG/M3|8.6|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G004|Estación Bomberos|-6|SO2|PPB|6|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G005|Estación Teódula|-6|CO|PPM|0.77|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G005|Estación Teódula|-6|OZONE|PPB|39|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G005|Estación Teódula|-6|PM10|UG/M3|93|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G005|Estación Teódula|-6|PM2.5|UG/M3|15.2|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G005|Estación Teódula|-6|SO2|PPB|8|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G005|Estación Teódula|-6|WD|DEGREES|157.3|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G005|Estación Teódula|-6|WS|M/S|2.4|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G006|Estación Secundaria|-6|OZONE|PPB|16|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G006|Estación Secundaria|-6|PM10|UG/M3|5|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G006|Estación Secundaria|-6|SO2|PPB|6|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G006|Estación Secundaria|-6|WD|DEGREES|142.2|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G007|Estación CICEG|-6|OZONE|PPB|25|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G007|Estación CICEG|-6|PM10|UG/M3|29|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G007|Estación CICEG|-6|WD|DEGREES|209.7|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G007|Estación CICEG|-6|WS|M/S|2.2|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G010|Estación Facultad de|-6|OZONE|PPB|20|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G010|Estación Facultad de|-6|PM10|UG/M3|13|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G010|Estación Facultad de|-6|PM2.5|UG/M3|19.6|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G010|Estación Facultad de|-6|SO2|PPB|8|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G010|Estación Facultad de|-6|WD|DEGREES|223.1|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G010|Estación Facultad de|-6|WS|M/S|1.9|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G011|Estación T21|-6|OZONE|PPB|25|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G011|Estación T21|-6|PM10|UG/M3|16|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G011|Estación T21|-6|SO2|PPB|5|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G011|Estación T21|-6|WD|DEGREES|210.2|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G011|Estación T21|-6|WS|M/S|2.2|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G013|Estación DIF|-6|CO|PPM|0.67|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G013|Estación DIF|-6|OZONE|PPB|27|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G013|Estación DIF|-6|PM10|UG/M3|35|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G013|Estación DIF|-6|PM2.5|UG/M3|21.8|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G013|Estación DIF|-6|SO2|PPB|9|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G013|Estación DIF|-6|WD|DEGREES|162.6|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G013|Estación DIF|-6|WS|M/S|1.9|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G015|Estación San Miguel |-6|PM2.5|UG/M3|6.2|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G015|Estación San Miguel |-6|WD|DEGREES|65.5|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G016|Estación Purísima de|-6|OZONE|PPB|36|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G016|Estación Purísima de|-6|PM10|UG/M3|17|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G016|Estación Purísima de|-6|WS|M/S|1.2|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G017|Estación Abasolo|-6|WD|DEGREES|206.9|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G018|Estación Guanajuato|-6|PM2.5|UG/M3|7.9|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|80011G018|Estación Guanajuato|-6|WD|DEGREES|129.7|Secretaría de Medio Ambiente y Ordenamiento Territorial
+10/02/19|04:00|840410351001|Crater Lake Rim|-8|PM2.5|UG/M3|4.5|Oregon Dept. of Environmental Quality
+10/02/19|04:00|840410390101|Eugene - Wilkes Dr.|-8|PM2.5|UG/M3|11.5|Lane Regional Air Protection Agency
+10/02/19|04:00|840420510524|Uniontown|-5|OZONE|PPB|15|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|840420510524|Uniontown|-5|PM2.5|UG/M3|16.1|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|840420810419|Salladasburg|-5|PM2.5|UG/M3|12|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|840421150215|New Milford|-5|PM2.5|UG/M3|11.9|Pennsylvania Dept. of Environmental Protection
+10/02/19|04:00|840560019999|Laramie Temporary PM|-7|PM2.5|UG/M3|3|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560019999|Laramie Temporary PM|-7|RWD|DEGREES|108.6|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560019999|Laramie Temporary PM|-7|TEMP|C|4|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560019999|Laramie Temporary PM|-7|WS|M/S|2.8|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|BARPR|MILLIBAR|823.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|NO|PPB|-0.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|NO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|NOX|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|OZONE|PPB|13|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|PM10|UG/M3|3|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|PM2.5|UG/M3|5|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|PRECIP|MM|0.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|RHUM|PERCENT|102.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|RWD|DEGREES|61|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|RWS|KNOTS|9.1|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|SO2|PPB|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|SRAD|WATTS/M2|-3|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|TEMP|C|2.8|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560210003|Laramie County Mobil|-7|WS|M/S|4.8|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|BARPR|MILLIBAR|846.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|NO|PPB|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|NO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|NOX|PPB|1.4|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|OZONE|PPB|16|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|PM10|UG/M3|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|PM2.5|UG/M3|2|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|RHUM|PERCENT|95.8|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|RWD|DEGREES|33|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|RWS|KNOTS|3.3|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|SO2|PPB|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|SRAD|WATTS/M2|-1|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|TEMP|C|-0.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560290003|Cody Mobile|-7|WS|M/S|1.8|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|BARPR|MILLIBAR|803.7|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|NO|PPB|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|NO2|PPB|1|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|NOX|PPB|0.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|OZONE|PPB|27|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|PM10|UG/M3|8|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|PM2.5|UG/M3|8|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|PRECIP|MM|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|RHUM|PERCENT|77|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|RWD|DEGREES|186|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|RWS|KNOTS|2.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|SO2|PPB|0|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|SRAD|WATTS/M2|-1|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|TEMP|C|1.5|Wyoming Department of Environmental Quality
+10/02/19|04:00|840560390009|Jackson Mobile|-7|WS|M/S|1.3|Wyoming Department of Environmental Quality
+10/02/19|04:00|BG1010001|Bogota|-5|PM2.5|UG/M3|14|U.S. Department of State Colombia - Bogota
+10/02/19|04:00|BIH010001|Sarajevo|1|PM2.5|UG/M3|16|U.S. Department of State Bosnia Herzegovina - Sarajevo
+10/02/19|04:00|BJ1010001|Beijing|8|PM2.5|UG/M3|51|U.S. Department of State China - Beijing
+10/02/19|04:00|DB1010001|Dubai|4|OZONE|PPB|6|U.S. Department of State UAE - Dubai
+10/02/19|04:00|DB1010001|Dubai|4|PM2.5|UG/M3|98|U.S. Department of State UAE - Dubai
+10/02/19|04:00|GZ1010001|Guangzhou|8|PM2.5|UG/M3|63|U.S. Department of State China - Guangzhou
+10/02/19|04:00|KC1010001|Kuwait City|3|PM2.5|UG/M3|80|U.S. Department of State Kuwait - Kuwait City
+10/02/19|04:00|LM1010001|Lima|-5|PM2.5|UG/M3|47|U.S. Department of State Peru - Lima
+10/02/19|04:00|MNA010001|Manama|3|OZONE|PPB|9|U.S. Department of State Bahrain - Manama
+10/02/19|04:00|MNA010001|Manama|3|PM2.5|UG/M3|67|U.S. Department of State Bahrain - Manama
+10/02/19|04:00|UB1010001|Ulaanbaatar|8|PM2.5|UG/M3|14|U.S. Department of State Mongolia - Ulaanbaatar
