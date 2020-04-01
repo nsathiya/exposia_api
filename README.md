@@ -57,4 +57,3 @@ GET /getAqiReport
 @param req.query.endTime {Timestamp} latest time in UTC data should be retrieved for (ex. 1569997436030)
 @param req.query.userId {number} id of user we want reports for (ex. 1)
 ```
-/getAqiReport?userId=r70ZIxohXIbsLmoTCpvDuEehBP23&startTime=1569997386244&endTime=1569997436030
