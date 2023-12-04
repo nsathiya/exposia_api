@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@google-cloud/debug-agent": "^4.0.0",
-    "@google-cloud/firestore": "2.2.6",
+    "@google-cloud/firestore": "6.2.0",
     "@sendgrid/mail": "^6.4.0",
     "chai": "^4.2.0",
     "escape-html": "^1.0.3",
